@@ -1,0 +1,317 @@
+: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Stage 1: Approach object 
+0
+Stage 2: Grip slowly
+0
+Distance: 829.86
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 837.62
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 872.53
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 851.20
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 845.38
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 881.26
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 855.08
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 855.08
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 854.11
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 157.86
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 152.04
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 121.01
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 116.16
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 111.32
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 102.59
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 93.86
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 87.07
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 84.16
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 82.22
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 82.22
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 83.19
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 81.25
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 81.25
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 76.41
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 72.53
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 73.50
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 72.53
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 68.65
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 67.68
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 66.71
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 63.80
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 65.74
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 58.95
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 57.98
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 56.04
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 52.16
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 48.28
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 50.22
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 46.35
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 42.47
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 43.44
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 44.41
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 40.53
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 41.50
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 40.53
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 38.59
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 41.50
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 40.53
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 34.71
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 33.74
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Stage 1: Approach object 
+1
+Stage 2: Grip slowly
+0
+Distance: 24.04
+Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0
+Stage 3: Move to target
+0
+Stage 4: Release object
+0
+Stage 1: Approach object 
+1
+Stage 1: Approach object 
+1
+Stage 1: Approach object 
+1
+Stage 1: Approach object 
+1
+Stage 1: Approach object 
+1
+Stage 1: Approach object 
+1
+Stage 1: Approach object 
+1
+Stage 1: Approach object 
+1
+Stage 1: Approach object 
+1

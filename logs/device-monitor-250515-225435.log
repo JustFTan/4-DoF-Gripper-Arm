@@ -1,0 +1,246 @@
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Sensor VL53L0X berhasil diinisialisasi.
+Mulai pengujian servo...
+Menggerakkan Servo 0
+Menggerakkan Servo 1
+Menggerakkan Servo 2
+Menggerakkan Servo 3
+Menggerakkan Servo 4
+Menggerakkan Servo 5
+Tes servo selesai.
+
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TERDETEKSI
+Sensor Jarak: 5.62 mm
+Sensor IR: TERDETEKSI
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 155.92 mm
+Sensor IR: TIDAK
+Sensor Jarak: 161.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 61.86 mm
+Sensor IR: TIDAK
+Sensor Jarak: 25.98 mm
+Sensor IR: TIDAK
+Sensor Jarak: 16.28 mm
+Sensor IR: TIDAK
+Sensor Jarak: 9.50 mm
+Sensor IR: TIDAK
+Sensor Jarak: 8.53 mm
+Sensor IR: TIDAK
+Sensor Jarak: 5.62 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 8.53 mm
+Sensor IR: TIDAK
+Sensor Jarak: 6.59 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 5.62 mm
+Sensor IR: TIDAK
+Sensor Jarak: 7.56 mm
+Sensor IR: TIDAK
+Sensor Jarak: 6.59 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 6.59 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 5.62 mm
+Sensor IR: TIDAK
+Sensor Jarak: 0.77 mm
+Sensor IR: TIDAK
+Sensor Jarak: 6.59 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 5.62 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 7.56 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 8.53 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: -0.20 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 5.62 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 8.53 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: -0.20 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 7.56 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 0.77 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 0.77 mm
+Sensor IR: TIDAK
+Sensor Jarak: -0.20 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 5.62 mm
+Sensor IR: TIDAK
+Sensor Jarak: 0.77 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 5.62 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 6.59 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 0.77 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 7.56 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 7.56 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 0.77 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: -0.20 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 4.65 mm
+Sensor IR: TIDAK
+Sensor Jarak: 6.59 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: 5.62 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 3.68 mm
+Sensor IR: TIDAK
+Sensor Jarak: -0.20 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm
+Sensor IR: TIDAK
+Sensor Jarak: 1.74 mm
+Sensor IR: TIDAK
+Sensor Jarak: 6.59 mm
+Sensor IR: TIDAK
+Sensor Jarak: 2.71 mm

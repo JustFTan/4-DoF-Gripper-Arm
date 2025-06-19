@@ -1,0 +1,40 @@
+PI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 40.53
+Object close enough. Stopping slow grip.
+Distance: 73.50
+Stage 1: Approach to point 1
+Distance: 53.13
+Stage 1: Approach to point 1
+Distance: 59.92
+Stage 1: Approach to point 1
+Distance: 57.01
+Stage 1: Approach to point 1
+Distance: 57.01
+Stage 1: Approach to point 1
+Distance: 56.04
+Stage 1: Approach to point 1
+Distance: 58.95
+Stage 1: Approach to point 1
+Distance: 57.98
+Stage 1: Approach to point 1
+Distance: 56.04
+Stage 1: Approach to point 1
+Distance: 60.89
+Stage 1: Approach to point 1
+Distance: 3.68
+Object close enough. Stopping slow grip.
+Distance: 0.77
+Stage 3: Move to target 1
+Stage 4: Release object
+1
+Distance: 55.07
+Stage 1: Approach to point 2

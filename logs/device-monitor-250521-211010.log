@@ -1,0 +1,491 @@
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 42.47
+Distance: 44.41
+Distance: 40.53
+Distance: 41.50
+Distance: 42.47
+Distance: 40.53
+Distance: 44.41
+Distance: 38.59
+Distance: 42.47
+Distance: 37.62
+Distance: 44.41
+Distance: 43.44
+Distance: 42.47
+Distance: 42.47
+Distance: 41.50
+Distance: 40.53
+Distance: 40.53
+Distance: 43.44
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 40.53
+Distance: 43.44
+Distance: 43.44
+Distance: 42.47
+Distance: 41.50
+Distance: 40.53
+Distance: 40.53
+Distance: 40.53
+Distance: 40.53
+Distance: 40.53
+Distance: 43.44
+Distance: 43.44
+Distance: 43.44
+Distance: 44.41
+Distance: 43.44
+Distance: 40.53
+Distance: 43.44
+Distance: 44.41
+Distance: 44.41
+Distance: 41.50
+Distance: 44.41
+Distance: 43.44
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 43.44
+Distance: 42.47
+Distance: 40.53
+Distance: 44.41
+Distance: 46.35
+Stage 1: Approach to point 1
+Distance: 43.44
+Distance: 40.53
+Distance: 39.56
+Distance: 39.56
+Distance: 41.50
+Distance: 39.56
+Distance: 41.50
+Distance: 43.44
+Distance: 37.62
+Distance: 41.50
+Distance: 39.56
+Distance: 41.50
+Distance: 39.56
+Distance: 40.53
+Distance: 38.59
+Distance: 38.59
+Distance: 40.53
+Distance: 40.53
+Distance: 40.53
+Distance: 42.47
+Distance: 43.44
+Distance: 42.47
+Distance: 44.41
+Distance: 43.44
+Distance: 41.50
+Distance: 40.53
+Distance: 41.50
+Distance: 42.47
+Distance: 45.38
+Stage 1: Approach to point 1
+Distance: 41.50
+Distance: 40.53
+Distance: 42.47
+Distance: 43.44
+Distance: 42.47
+Distance: 39.56
+Distance: 42.47
+Distance: 42.47
+Distance: 41.50
+Distance: 43.44
+Distance: 43.44
+Distance: 41.50
+Distance: 41.50
+Distance: 43.44
+Distance: 43.44
+Distance: 39.56
+Distance: 41.50
+Distance: 39.56
+Distance: 42.47
+Distance: 42.47
+Distance: 46.35
+Stage 1: Approach to point 1
+Distance: 41.50
+Distance: 37.62
+Distance: 40.53
+Distance: 43.44
+Distance: 43.44
+Distance: 40.53
+Distance: 44.41
+Distance: 41.50
+Distance: 40.53
+Distance: 44.41
+Distance: 43.44
+Distance: 42.47
+Distance: 39.56
+Distance: 43.44
+Distance: 43.44
+Distance: 42.47
+Distance: 42.47
+Distance: 42.47
+Distance: 43.44
+Distance: 42.47
+Distance: 40.53
+Distance: 40.53
+Distance: 42.47
+Distance: 40.53
+Distance: 43.44
+Distance: 42.47
+Distance: 42.47
+Distance: 42.47
+Distance: 43.44
+Distance: 41.50
+Distance: 42.47
+Distance: 39.56
+Distance: 42.47
+Distance: 39.56
+Distance: 38.59
+Distance: 40.53
+Distance: 39.56
+Distance: 41.50
+Distance: 31.80
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Distance: 28.89
+Object close enough. Stopping slow grip.
+Distance: 28.89
+Object close enough. Stopping slow grip.
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Distance: 23.07
+Object close enough. Stopping slow grip.
+Distance: 24.04
+Object close enough. Stopping slow grip.
+Distance: 24.04
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 25.01
+Object close enough. Stopping slow grip.
+Distance: 28.89
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 28.89
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 28.89
+Object close enough. Stopping slow grip.
+Distance: 29.86
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 29.86
+Object close enough. Stopping slow grip.
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Distance: 28.89
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 25.01
+Object close enough. Stopping slow grip.
+Distance: 30.83
+Distance: 24.04
+Object close enough. Stopping slow grip.
+Distance: 26.95
+Object close enough. Stopping slow grip.
+Distance: 26.95
+Object close enough. Stopping slow grip.
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Distance: 26.95
+Object close enough. Stopping slow grip.
+Distance: 26.95
+Object close enough. Stopping slow grip.
+Distance: 26.95
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 29.86
+Object close enough. Stopping slow grip.
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Distance: 25.01
+Object close enough. Stopping slow grip.
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Distance: 25.01
+Object close enough. Stopping slow grip.
+Distance: 22.10
+Object close enough. Stopping slow grip.
+Distance: 22.10
+Object close enough. Stopping slow grip.
+Distance: 23.07
+Object close enough. Stopping slow grip.
+Distance: 24.04
+Object close enough. Stopping slow grip.
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Distance: 24.04
+Object close enough. Stopping slow grip.
+Distance: 24.04
+Object close enough. Stopping slow grip.
+Distance: 23.07
+Object close enough. Stopping slow grip.
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Distance: 22.10
+Object close enough. Stopping slow grip.
+Distance: 23.07
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 22.10
+Object close enough. Stopping slow grip.
+Distance: 23.07
+Object close enough. Stopping slow grip.
+Distance: 22.10
+Object close enough. Stopping slow grip.
+Distance: 21.13
+Object close enough. Stopping slow grip.
+Distance: 23.07
+Object close enough. Stopping slow grip.
+Distance: 22.10
+Object close enough. Stopping slow grip.
+Distance: 23.07
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 21.13
+Object close enough. Stopping slow grip.
+Distance: 20.16
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 20.16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Distance: 10.47
+Stage 3: Move to target 1
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 18.22
+Object close enough. Stopping slow grip.

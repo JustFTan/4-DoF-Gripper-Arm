@@ -1,0 +1,9975 @@
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+1 0 0 0
+Distance: 43.44
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 13.38
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 13.38
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 13.38
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 13.38
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 13.38
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 23.07
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 13.38
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 21.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 19.19
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 13.38
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 14.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 16.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 15.31
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 13.38
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 20.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 22.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 18.22
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 17.25
+0
+Stage 1: Approach to point 1
+1 0 0 0

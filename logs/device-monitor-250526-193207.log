@@ -1,0 +1,5076 @@
+:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+1
+Distance: 79.32
+0
+Stage 1: Approach to point 1
+1
+Distance: 78.35
+0
+1
+Distance: 82.22
+0
+1
+Distance: 85.13
+0
+1
+Distance: 83.19
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 84.16
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 81.25
+0
+1
+Distance: 77.38
+0
+1
+Distance: 82.22
+0
+1
+Distance: 80.28
+0
+1
+Distance: 80.28
+0
+1
+Distance: 80.28
+0
+1
+Distance: 80.28
+0
+1
+Distance: 83.19
+0
+1
+Distance: 77.38
+0
+1
+Distance: 82.22
+0
+1
+Distance: 82.22
+0
+1
+Distance: 80.28
+0
+1
+Distance: 82.22
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 80.28
+0
+1
+Distance: 79.32
+0
+1
+Distance: 81.25
+0
+1
+Distance: 82.22
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 83.19
+0
+1
+Distance: 77.38
+0
+1
+Distance: 82.22
+0
+1
+Distance: 79.32
+0
+1
+Distance: 85.13
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 80.28
+0
+1
+Distance: 81.25
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 80.28
+0
+1
+Distance: 83.19
+0
+1
+Distance: 80.28
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 86.10
+0
+1
+Distance: 80.28
+0
+1
+Distance: 83.19
+0
+1
+Distance: 87.07
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 80.28
+0
+1
+Distance: 82.22
+0
+1
+Distance: 81.25
+0
+1
+Distance: 80.28
+0
+1
+Distance: 81.25
+0
+1
+Distance: 81.25
+0
+1
+Distance: 81.25
+0
+1
+Distance: 84.16
+0
+1
+Distance: 81.25
+0
+1
+Distance: 87.07
+0
+1
+Distance: 85.13
+0
+1
+Distance: 82.22
+0
+1
+Distance: 81.25
+0
+1
+Distance: 82.22
+0
+1
+Distance: 85.13
+0
+1
+Distance: 79.32
+0
+1
+Distance: 82.22
+0
+1
+Distance: 81.25
+0
+1
+Distance: 81.25
+0
+1
+Distance: 85.13
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 81.25
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 82.22
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 79.32
+0
+1
+Distance: 82.22
+0
+1
+Distance: 80.28
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 82.22
+0
+1
+Distance: 79.32
+0
+1
+Distance: 83.19
+0
+1
+Distance: 82.22
+0
+1
+Distance: 83.19
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 81.25
+0
+1
+Distance: 82.22
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 81.25
+0
+1
+Distance: 81.25
+0
+1
+Distance: 80.28
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 82.22
+0
+1
+Distance: 82.22
+0
+1
+Distance: 82.22
+0
+1
+Distance: 85.13
+0
+1
+Distance: 79.32
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 81.25
+0
+1
+Distance: 80.28
+0
+1
+Distance: 81.25
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 84.16
+0
+1
+Distance: 80.28
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 79.32
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 84.16
+0
+1
+Distance: 82.22
+0
+1
+Distance: 82.22
+0
+1
+Distance: 78.35
+0
+1
+Distance: 83.19
+0
+1
+Distance: 83.19
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 84.16
+0
+1
+Distance: 76.41
+0
+1
+Distance: 80.28
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 81.25
+0
+1
+Distance: 80.28
+0
+1
+Distance: 80.28
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 82.22
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 80.28
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 81.25
+0
+1
+Distance: 81.25
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 80.28
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 74.47
+0
+1
+Distance: 80.28
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 82.22
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 77.38
+0
+1
+Distance: 81.25
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 83.19
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 80.28
+0
+1
+Distance: 81.25
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 81.25
+0
+1
+Distance: 80.28
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 82.22
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 83.19
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 81.25
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 81.25
+0
+1
+Distance: 77.38
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 81.25
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 82.22
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 81.25
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 71.56
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 69.62
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 79.32
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 80.28
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 80.28
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 71.56
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 71.56
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 79.32
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 72.53
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 75.44
+0
+1
+Distance: 69.62
+0
+1
+Distance: 75.44
+0
+1
+Distance: 70.59
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 71.56
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 71.56
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 81.25
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 82.22
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 81.25
+0
+1
+Distance: 71.56
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 69.62
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 81.25
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 71.56
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 78.35
+0
+1
+Distance: 71.56
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 73.50
+0
+1
+Distance: 80.28
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 80.28
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 71.56
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 81.25
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 82.22
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 71.56
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 71.56
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 71.56
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 82.22
+0
+1
+Distance: 78.35
+0
+1
+Distance: 80.28
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 72.53
+0
+1
+Distance: 70.59
+0
+1
+Distance: 76.41
+0
+1
+Distance: 70.59
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 80.28
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 72.53
+0
+1
+Distance: 79.32
+0
+1
+Distance: 69.62
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 72.53
+0
+1
+Distance: 72.53
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 80.28
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 82.22
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 69.62
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 81.25
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 71.56
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 71.56
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 72.53
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 68.65
+0
+1
+Distance: 73.50
+0
+1
+Distance: 71.56
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 71.56
+0
+1
+Distance: 77.38
+0
+1
+Distance: 69.62
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 70.59
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 72.53
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 80.28
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 72.53
+0
+1
+Distance: 79.32
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 81.25
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 72.53
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 79.32
+0
+1
+Distance: 71.56
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 81.25
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 71.56
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 79.32
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 71.56
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 68.65
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 71.56
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 70.59
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 79.32
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 79.32
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 70.59
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 70.59
+0
+1
+Distance: 83.19
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 71.56
+0
+1
+Distance: 74.47
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 69.62
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 73.50
+0
+1
+Distance: 71.56
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 80.28
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 77.38
+0
+1
+Distance: 73.50
+0
+1
+Distance: 70.59
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 71.56
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 72.53
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 81.25
+0
+1
+Distance: 78.35
+0
+1
+Distance: 74.47
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 73.50
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 80.28
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 78.35
+0
+1
+Distance: 72.53
+0
+1
+Distance: 78.35
+0
+1
+Distance: 73.50
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 72.53
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 69.62
+0
+1
+Distance: 76.41
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 76.41
+0
+1
+Distance: 74.47
+0
+1
+Distance: 76.41
+0
+1
+Distance: 78.35
+0
+1
+Distance: 77.38
+0
+1
+Distance: 75.44
+0
+1
+Distance: 79.32
+0
+1
+Distance: 78.35
+0
+1
+Distance: 71.56
+0
+1
+Distance: 77.38
+0
+1
+Distance: 76.41
+0
+1
+Distance: 75.44
+0
+1
+Distance: 75.44
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 74.47
+0
+1
+Distance: 79.32
+0
+1
+Distance: 73.50
+0
+1
+Distance: 78.35
+0
+1
+Distance: 71.56
+0
+1
+Distance: 78.35
+0
+1
+Distance: 75.44
+0
+1
+Distance: 72.53
+0
+1
+Distance: 73.50
+0
+1
+Distance: 72.53
+0
+1
+Distance: 75.44
+0
+1
+Distance: 77.38
+0
+1
+Distance: 77.38
+0
+1
+Distance: 78.35
+0
+1
+Distance: 71.56
+0
+1
+Distance: 78.35
+0
+1
+Distance: 79.32
+0
+1
+Distance: 76.41
+0
+1
+Distance: 83.19
+0
+1
+Distance: 87.07
+0
+1
+Distance: 88.04
+0
+1
+Distance: 85.13
+0
+1
+Distance: 89.01
+0
+1
+Distance: 90.95
+0
+1
+Distance: 90.95
+0
+1
+Distance: 93.86
+0
+1
+Distance: 94.83
+0
+1
+Distance: 94.83
+0
+1
+Distance: 95.80
+0
+1
+Distance: 95.80
+0
+1
+Distance: 94.83
+0
+1
+Distance: 96.77
+0
+1
+Distance: 101.62
+0
+1
+Distance: 99.68
+0
+1
+Distance: 96.77
+0
+1
+Distance: 101.62
+0
+1
+Distance: 100.65
+0
+1
+Distance: 100.65
+0
+1
+Distance: 100.65
+0
+1
+Distance: 98.71
+0
+1
+Distance: 104.53
+0
+1
+Distance: 99.68
+0
+1
+Distance: 98.71
+0
+1
+Distance: 96.77
+0
+1
+Distance: 94.83
+0
+1
+Distance: 91.92
+0
+1
+Distance: 89.01
+0
+1
+Distance: 89.01
+0
+1
+Distance: 90.95
+0
+1
+Distance: 97.74
+0
+1
+Distance: 88.04
+0
+1
+Distance: 92.89
+0
+1
+Distance: 90.95
+0
+1
+Distance: 92.89
+0
+1
+Distance: 94.83
+0
+1
+Distance: 89.98
+0
+1
+Distance: 90.95
+0
+1
+Distance: 96.77
+0
+1
+Distance: 90.95
+0
+1
+Distance: 91.92
+0
+1
+Distance: 92.89
+0
+1
+Distance: 92.89
+0
+1
+Distance: 94.83
+0
+1
+Distance: 92.89
+0
+1
+Distance: 93.86
+0
+1
+Distance: 91.92
+0
+1
+Distance: 95.80
+0
+1
+Distance: 97.74
+0
+1
+Distance: 93.86
+0
+1
+Distance: 93.86
+0
+1
+Distance: 93.86
+0
+1
+Distance: 92.89
+0
+1
+Distance: 96.77
+0
+1
+Distance: 93.86
+0
+1
+Distance: 95.80
+0
+1
+Distance: 95.80
+0
+1
+Distance: 93.86
+0
+1
+Distance: 89.98
+0
+1
+Distance: 97.74
+0
+1
+Distance: 92.89
+0
+1
+Distance: 95.80
+0
+1
+Distance: 95.80
+0
+1
+Distance: 97.74
+0
+1
+Distance: 96.77
+0
+1
+Distance: 89.98
+0
+1
+Distance: 96.77
+0
+1
+Distance: 100.65
+0
+1
+Distance: 100.65
+0
+1
+Distance: 99.68
+0
+1
+Distance: 94.83
+0
+1
+Distance: 97.74
+0
+1
+Distance: 101.62
+0
+1
+Distance: 99.68
+0
+1
+Distance: 99.68
+0
+1
+Distance: 97.74
+0
+1
+Distance: 98.71
+0
+1

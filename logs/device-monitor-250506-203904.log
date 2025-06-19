@@ -1,0 +1,5557 @@
+0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Adafruit VL53L0X test
+VL53L0X API Simple Ranging example
+
+
+Reading a measurement... Distance (mm): 123.92
+0
+Reading a measurement... Distance (mm): 118.10
+0
+Reading a measurement... Distance (mm): 123.92
+0
+Reading a measurement... Distance (mm): 120.04
+0
+Reading a measurement... Distance (mm): 115.19
+0
+Reading a measurement... Distance (mm): 121.98
+0
+Reading a measurement... Distance (mm): 112.28
+0
+Reading a measurement... Distance (mm): 114.22
+0
+Reading a measurement... Distance (mm): 118.10
+0
+Reading a measurement... Distance (mm): 92.89
+0
+Reading a measurement... Distance (mm): 7.56
+0
+Reading a measurement... Distance (mm): 26.95
+0
+Reading a measurement... Distance (mm): 30.83
+0
+Reading a measurement... Distance (mm): 150.10
+0
+Reading a measurement... Distance (mm): 226.71
+0
+Reading a measurement... Distance (mm): 216.04
+0
+Reading a measurement... Distance (mm): 60.89
+0
+Reading a measurement... Distance (mm): 56.04
+0
+Reading a measurement... Distance (mm): 60.89
+0
+Reading a measurement... Distance (mm): 57.01
+0
+Reading a measurement... Distance (mm): 57.01
+0
+Reading a measurement... Distance (mm): 59.92
+0
+Reading a measurement... Distance (mm): 56.04
+0
+Reading a measurement... Distance (mm): 60.89
+0
+Reading a measurement... Distance (mm): 153.98
+0
+Reading a measurement... Distance (mm): 154.95
+0
+Reading a measurement... Distance (mm): 133.62
+0
+Reading a measurement... Distance (mm): 144.29
+0
+Reading a measurement... Distance (mm): 133.62
+0
+Reading a measurement... Distance (mm): 139.44
+351
+Reading a measurement... Distance (mm): 140.41
+351
+Reading a measurement... Distance (mm): 141.38
+351
+Reading a measurement... Distance (mm): 144.29
+351
+Reading a measurement... Distance (mm): 149.13
+351
+Reading a measurement... Distance (mm): 137.50
+351
+Reading a measurement... Distance (mm): 138.47
+351
+Reading a measurement... Distance (mm): 142.35
+351
+Reading a measurement... Distance (mm): 142.35
+351
+Reading a measurement... Distance (mm): 142.35
+351
+Reading a measurement... Distance (mm): 143.32
+351
+Reading a measurement... Distance (mm): 144.29
+351
+Reading a measurement... Distance (mm): 142.35
+351
+Reading a measurement... Distance (mm): 139.44
+351
+Reading a measurement... Distance (mm): 142.35
+351
+Reading a measurement... Distance (mm): 150.10
+351
+Reading a measurement... Distance (mm): 148.16
+351
+Reading a measurement... Distance (mm): 148.16
+351
+Reading a measurement... Distance (mm): 145.25
+351
+Reading a measurement... Distance (mm): 145.25
+351
+Reading a measurement... Distance (mm): 145.25
+351
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 137.50
+351
+Reading a measurement... Distance (mm): 144.29
+351
+Reading a measurement... Distance (mm): 139.44
+351
+Reading a measurement... Distance (mm): 142.35
+351
+Reading a measurement... Distance (mm): 138.47
+351
+Reading a measurement... Distance (mm): 140.41
+351
+Reading a measurement... Distance (mm): 136.53
+351
+Reading a measurement... Distance (mm): 141.38
+351
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 145.25
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 150.10
+279
+Reading a measurement... Distance (mm): 148.16
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 147.19
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 148.16
+351
+Reading a measurement... Distance (mm): 141.38
+351
+Reading a measurement... Distance (mm): 140.41
+351
+Reading a measurement... Distance (mm): 146.22
+351
+Reading a measurement... Distance (mm): 149.13
+351
+Reading a measurement... Distance (mm): 142.35
+351
+Reading a measurement... Distance (mm): 144.29
+351
+Reading a measurement... Distance (mm): 151.07
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 144.29
+351
+Reading a measurement... Distance (mm): 141.38
+351
+Reading a measurement... Distance (mm): 140.41
+351
+Reading a measurement... Distance (mm): 130.71
+351
+Reading a measurement... Distance (mm): 16.28
+351
+Reading a measurement... Distance (mm): 7.56
+351
+Reading a measurement... Distance (mm): 10.47
+351
+Reading a measurement... Distance (mm): 4.65
+351
+Reading a measurement... Distance (mm): 8.53
+351
+Reading a measurement... Distance (mm): 7.56
+351
+Reading a measurement... Distance (mm): 18.22
+351
+Reading a measurement... Distance (mm): 5.62
+279
+Reading a measurement... Distance (mm): 7.56
+351
+Reading a measurement... Distance (mm): 143.32
+351
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 143.32
+351
+Reading a measurement... Distance (mm): 162.71
+279
+Reading a measurement... Distance (mm): 146.22
+351
+Reading a measurement... Distance (mm): 151.07
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 147.19
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 147.19
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 121.01
+351
+Reading a measurement... Distance (mm): 122.95
+351
+Reading a measurement... Distance (mm): 123.92
+351
+Reading a measurement... Distance (mm): 121.98
+351
+Reading a measurement... Distance (mm): 128.77
+351
+Reading a measurement... Distance (mm): 123.92
+351
+Reading a measurement... Distance (mm): 121.01
+351
+Reading a measurement... Distance (mm): 121.98
+351
+Reading a measurement... Distance (mm): 126.83
+351
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement...  out of range 
+279
+Reading a measurement... Distance (mm): 154.95
+279
+Reading a measurement...  out of range 
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement...  out of range 
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 153.01
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 166.59
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 159.80
+351
+Reading a measurement... Distance (mm): 168.53
+351
+Reading a measurement... Distance (mm): 171.44
+351
+Reading a measurement... Distance (mm): 169.50
+351
+Reading a measurement... Distance (mm): 169.50
+351
+Reading a measurement... Distance (mm): 170.47
+351
+Reading a measurement... Distance (mm): 170.47
+351
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 153.98
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 148.16
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 151.07
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 154.95
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 151.07
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 153.01
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 145.25
+279
+Reading a measurement... Distance (mm): 151.07
+279
+Reading a measurement... Distance (mm): 145.25
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 148.16
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 153.01
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 150.10
+279
+Reading a measurement... Distance (mm): 150.10
+279
+Reading a measurement... Distance (mm): 148.16
+279
+Reading a measurement... Distance (mm): 150.10
+279
+Reading a measurement... Distance (mm): 145.25
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 148.16
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 148.16
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 148.16
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 145.25
+279
+Reading a measurement... Distance (mm): 150.10
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 145.25
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 164.65
+279
+Reading a measurement... Distance (mm): 153.98
+279
+Reading a measurement... Distance (mm): 157.86
+279
+Reading a measurement... Distance (mm): 160.77
+279
+Reading a measurement... Distance (mm): 154.95
+279
+Reading a measurement... Distance (mm): 164.65
+279
+Reading a measurement... Distance (mm): 159.80
+279
+Reading a measurement... Distance (mm): 159.80
+279
+Reading a measurement... Distance (mm): 163.68
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 127.80
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 164.65
+279
+Reading a measurement... Distance (mm): 161.74
+279
+Reading a measurement... Distance (mm): 164.65
+279
+Reading a measurement... Distance (mm): 157.86
+279
+Reading a measurement... Distance (mm): 157.86
+279
+Reading a measurement... Distance (mm): 159.80
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 162.71
+279
+Reading a measurement... Distance (mm): 160.77
+279
+Reading a measurement... Distance (mm): 161.74
+279
+Reading a measurement... Distance (mm): 151.07
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 160.77
+279
+Reading a measurement... Distance (mm): 157.86
+279
+Reading a measurement... Distance (mm): 164.65
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 156.89
+279
+Reading a measurement... Distance (mm): 165.62
+279
+Reading a measurement... Distance (mm): 154.95
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 150.10
+279
+Reading a measurement... Distance (mm): 153.98
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 153.98
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 154.95
+279
+Reading a measurement... Distance (mm): 159.80
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 165.62
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 163.68
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 167.56
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 197.62
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 193.74
+279
+Reading a measurement... Distance (mm): 192.77
+279
+Reading a measurement... Distance (mm): 193.74
+279
+Reading a measurement... Distance (mm): 193.74
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 190.83
+279
+Reading a measurement... Distance (mm): 195.68
+279
+Reading a measurement... Distance (mm): 196.65
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 194.71
+279
+Reading a measurement... Distance (mm): 194.71
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 189.86
+279
+Reading a measurement... Distance (mm): 189.86
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 167.56
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 147.19
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 156.89
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 154.95
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 161.74
+279
+Reading a measurement... Distance (mm): 162.71
+279
+Reading a measurement... Distance (mm): 159.80
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 190.83
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 189.86
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 195.68
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 189.86
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 162.71
+279
+Reading a measurement... Distance (mm): 167.56
+279
+Reading a measurement... Distance (mm): 168.53
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 160.77
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 167.56
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 165.62
+279
+Reading a measurement... Distance (mm): 166.59
+279
+Reading a measurement... Distance (mm): 165.62
+279
+Reading a measurement... Distance (mm): 165.62
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 132.65
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 129.74
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 192.77
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 166.59
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 165.62
+279
+Reading a measurement... Distance (mm): 168.53
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 208.29
+279
+Reading a measurement... Distance (mm): 197.62
+279
+Reading a measurement... Distance (mm): 201.50
+279
+Reading a measurement... Distance (mm): 211.19
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 161.74
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 195.68
+279
+Reading a measurement... Distance (mm): 198.59
+279
+Reading a measurement... Distance (mm): 206.35
+279
+Reading a measurement... Distance (mm): 201.50
+279
+Reading a measurement... Distance (mm): 197.62
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 193.74
+279
+Reading a measurement... Distance (mm): 158.83
+279
+Reading a measurement... Distance (mm): 153.98
+279
+Reading a measurement... Distance (mm): 154.95
+279
+Reading a measurement... Distance (mm): 150.10
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 150.10
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 199.56
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 212.16
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 190.83
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 190.83
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 168.53
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 166.59
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 194.71
+279
+Reading a measurement... Distance (mm): 192.77
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 167.56
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 189.86
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 189.86
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 196.65
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 193.74
+279
+Reading a measurement... Distance (mm): 186.95
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 206.35
+279
+Reading a measurement... Distance (mm): 208.29
+279
+Reading a measurement... Distance (mm): 217.98
+279
+Reading a measurement... Distance (mm): 204.41
+279
+Reading a measurement... Distance (mm): 204.41
+279
+Reading a measurement... Distance (mm): 214.10
+279
+Reading a measurement... Distance (mm): 190.83
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 159.80
+279
+Reading a measurement... Distance (mm): 153.98
+279
+Reading a measurement... Distance (mm): 164.65
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 163.68
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 166.59
+279
+Reading a measurement... Distance (mm): 160.77
+279
+Reading a measurement... Distance (mm): 160.77
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 160.77
+279
+Reading a measurement... Distance (mm): 145.25
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 142.35
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 157.86
+279
+Reading a measurement... Distance (mm): 213.13
+279
+Reading a measurement... Distance (mm): 201.50
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 208.29
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 163.68
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 167.56
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 165.62
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 166.59
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 168.53
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 168.53
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 180.16
+279
+Reading a measurement... Distance (mm): 179.19
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 167.56
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 177.25
+279
+Reading a measurement... Distance (mm): 209.25
+279
+Reading a measurement... Distance (mm): 208.29
+279
+Reading a measurement... Distance (mm): 215.07
+279
+Reading a measurement... Distance (mm): 201.50
+279
+Reading a measurement... Distance (mm): 202.47
+279
+Reading a measurement... Distance (mm): 206.35
+279
+Reading a measurement... Distance (mm): 205.38
+279
+Reading a measurement... Distance (mm): 203.44
+279
+Reading a measurement... Distance (mm): 210.22
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 207.32
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 193.74
+279
+Reading a measurement... Distance (mm): 211.19
+279
+Reading a measurement... Distance (mm): 208.29
+279
+Reading a measurement... Distance (mm): 192.77
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 194.71
+279
+Reading a measurement... Distance (mm): 192.77
+279
+Reading a measurement... Distance (mm): 185.01
+279
+Reading a measurement... Distance (mm): 192.77
+279
+Reading a measurement... Distance (mm): 194.71
+279
+Reading a measurement... Distance (mm): 195.68
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 198.59
+279
+Reading a measurement... Distance (mm): 185.98
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 190.83
+279
+Reading a measurement... Distance (mm): 189.86
+279
+Reading a measurement... Distance (mm): 202.47
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 195.68
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 167.56
+279
+Reading a measurement... Distance (mm): 164.65
+279
+Reading a measurement... Distance (mm): 153.01
+279
+Reading a measurement... Distance (mm): 153.01
+279
+Reading a measurement... Distance (mm): 153.98
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 160.77
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 164.65
+279
+Reading a measurement... Distance (mm): 161.74
+279
+Reading a measurement... Distance (mm): 164.65
+279
+Reading a measurement... Distance (mm): 165.62
+279
+Reading a measurement... Distance (mm): 165.62
+279
+Reading a measurement... Distance (mm): 163.68
+279
+Reading a measurement... Distance (mm): 175.32
+279
+Reading a measurement... Distance (mm): 173.38
+279
+Reading a measurement... Distance (mm): 163.68
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 188.89
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 162.71
+279
+Reading a measurement... Distance (mm): 138.47
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 128.77
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 131.68
+279
+Reading a measurement... Distance (mm): 482.71
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 151.07
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement... Distance (mm): 145.25
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 125.86
+279
+Reading a measurement... Distance (mm): 148.16
+279
+Reading a measurement... Distance (mm): 137.50
+279
+Reading a measurement... Distance (mm): 182.10
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement... Distance (mm): 141.38
+279
+Reading a measurement... Distance (mm): 161.74
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 172.41
+279
+Reading a measurement... Distance (mm): 154.95
+279
+Reading a measurement... Distance (mm): 183.07
+279
+Reading a measurement...  out of range 
+279
+Reading a measurement...  out of range 
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement...  out of range 
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 143.32
+279
+Reading a measurement... Distance (mm): 149.13
+279
+Reading a measurement...  out of range 
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 144.29
+279
+Reading a measurement... Distance (mm): 153.01
+279
+Reading a measurement... Distance (mm): 153.98
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 140.41
+279
+Reading a measurement... Distance (mm): 157.86
+279
+Reading a measurement... Distance (mm): 160.77
+279
+Reading a measurement... Distance (mm): 146.22
+279
+Reading a measurement... Distance (mm): 151.07
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 147.19
+279
+Reading a measurement... Distance (mm): 154.95
+279
+Reading a measurement... Distance (mm): 152.04
+279
+Reading a measurement... Distance (mm): 312.04
+279
+Reading a measurement... Distance (mm): 288.77
+279
+Reading a measurement... Distance (mm): 286.83
+279
+Reading a measurement... Distance (mm): 294.59
+279
+Reading a measurement... Distance (mm): 293.62
+279
+Reading a measurement... Distance (mm): 286.83
+279
+Reading a measurement... Distance (mm): 294.59
+279
+Reading a measurement... Distance (mm): 286.83
+279
+Reading a measurement... Distance (mm): 281.98
+279
+Reading a measurement... Distance (mm): 210.22
+279
+Reading a measurement... Distance (mm): 166.59
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 150.10
+279
+Reading a measurement... Distance (mm): 192.77
+279
+Reading a measurement... Distance (mm): 244.16
+279
+Reading a measurement... Distance (mm): 237.38
+279
+Reading a measurement... Distance (mm): 237.38
+279
+Reading a measurement... Distance (mm): 238.35
+279
+Reading a measurement... Distance (mm): 241.26
+279
+Reading a measurement... Distance (mm): 242.22
+279
+Reading a measurement... Distance (mm): 254.83
+279
+Reading a measurement... Distance (mm): 264.53
+279
+Reading a measurement... Distance (mm): 261.62
+279
+Reading a measurement... Distance (mm): 191.80
+279
+Reading a measurement... Distance (mm): 232.53
+279
+Reading a measurement... Distance (mm): 232.53
+279
+Reading a measurement... Distance (mm): 190.83
+279
+Reading a measurement... Distance (mm): 244.16
+279
+Reading a measurement... Distance (mm): 234.47
+279
+Reading a measurement... Distance (mm): 245.13
+279
+Reading a measurement... Distance (mm): 236.41
+279
+Reading a measurement... Distance (mm): 235.44
+279
+Reading a measurement... Distance (mm): 211.19
+279
+Reading a measurement... Distance (mm): 171.44
+279
+Reading a measurement... Distance (mm): 176.29
+279
+Reading a measurement... Distance (mm): 156.89
+279
+Reading a measurement... Distance (mm): 153.01
+279
+Reading a measurement... Distance (mm): 148.16
+279
+Reading a measurement... Distance (mm): 169.50
+279
+Reading a measurement... Distance (mm): 170.47
+279
+Reading a measurement... Distance (mm): 201.50
+279
+Reading a measurement... Distance (mm): 201.50
+279
+Reading a measurement... Distance (mm): 220.89
+279
+Reading a measurement... Distance (mm): 219.92
+279
+Reading a measurement... Distance (mm): 221.86
+279
+Reading a measurement... Distance (mm): 210.22
+279
+Reading a measurement... Distance (mm): 204.41
+279
+Reading a measurement... Distance (mm): 211.19
+279
+Reading a measurement... Distance (mm): 184.04
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 147.19
+279
+Reading a measurement... Distance (mm): 289.74
+279
+Reading a measurement... Distance (mm): 263.56
+279
+Reading a measurement... Distance (mm): 276.16
+279
+Reading a measurement... Distance (mm): 271.32
+279
+Reading a measurement... Distance (mm): 298.47
+279
+Reading a measurement... Distance (mm): 174.35
+279
+Reading a measurement... Distance (mm): 187.92
+279
+Reading a measurement... Distance (mm): 168.53
+279
+Reading a measurement... Distance (mm): 215.07
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 178.22
+279
+Reading a measurement... Distance (mm): 181.13
+279
+Reading a measurement... Distance (mm): 74.47
+279
+Reading a measurement... Distance (mm): 53.13
+279
+Reading a measurement... Distance (mm): 57.98
+279
+Reading a measurement... Distance (mm): 59.92
+279
+Reading a measurement... Distance (mm): 58.95
+279
+Reading a measurement... Distance (mm): 59.92
+279
+Reading a measurement... Distance (mm): 58.95
+279
+Reading a measurement... Distance (mm): 60.89
+279
+Reading a measurement... Distance (mm): 57.01
+279
+Reading a measurement... Distance (mm): 59.92
+279
+Reading a measurement... Distance (mm): 57.01
+279
+Reading a measurement... Distance (mm): 60.89
+279
+Reading a measurement... Distance (mm): 59.92
+279
+Reading a measurement... Distance (mm): 59.92
+279
+Reading a measurement... Distance (mm): 60.89
+279
+Reading a measurement... Distance (mm): 57.01
+279
+Reading a measurement... Distance (mm): 57.01
+279
+Reading a measurement... Distance (mm): 155.92
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 133.62
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 134.59
+279
+Reading a measurement... Distance (mm): 130.71
+279
+Reading a measurement... Distance (mm): 126.83
+279
+Reading a measurement... Distance (mm): 135.56
+279
+Reading a measurement... Distance (mm): 136.53
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 139.44
+279
+Reading a measurement... Distance (mm): 93.86
+279
+Reading a measurement... Distance (mm): 44.41
+279
+Reading a measurement... Distance (mm): 51.19
+279
+Reading a measurement... Distance (mm): 53.13
+279
+Reading a measurement... Distance (mm): 54.10
+279
+Reading a measurement... Distance (mm): 54.10
+279
+Reading a measurement... Distance (mm): 50.22
+279
+Reading a measurement... Distance (mm): 50.22
+279
+Reading a measurement... Distance (mm): 50.22
+279
+Reading a measurement... Distance (mm): 54.10
+279
+Reading a measurement... Distance (mm): 53.13
+279
+Reading a measurement... Distance (mm): 52.16
+279
+Reading a measurement... Distance (mm): 52.16
+279
+Reading a measurement... Distance (mm): 55.07
+279
+Reading a measurement... Distance (mm): 52.16
+279
+Reading a measurement... Distance (mm): 51.19
+279
+Reading a measurement... Distance (mm): 50.22
+279
+Reading a measurement... Distance (mm): 53.13
+279
+Reading a measurement... Distance (mm): 53.13
+279
+Reading a measurement... Distance (mm): 52.16
+279
+Reading a measurement... Distance (mm): 55.07
+279
+Reading a measurement... Distance (mm): 55.07
+279
+Reading a measurement... Distance (mm): 55.07
+279
+Reading a measurement... Distance (mm): 73.50
+279
+Reading a measurement... Distance (mm): 92.89
+279
+Reading a measurement... Distance (mm): 94.83
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 89.98
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 91.92
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 89.98
+279
+Reading a measurement... Distance (mm): 89.98
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 93.86
+279
+Reading a measurement... Distance (mm): 89.98
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 86.10
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 92.89
+279
+Reading a measurement... Distance (mm): 88.04
+279
+Reading a measurement... Distance (mm): 89.98
+279
+Reading a measurement... Distance (mm): 93.86
+279
+Reading a measurement... Distance (mm): 86.10
+279
+Reading a measurement... Distance (mm): 87.07
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 88.04
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 91.92
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 92.89
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 91.92
+279
+Reading a measurement... Distance (mm): 91.92
+279
+Reading a measurement... Distance (mm): 92.89
+279
+Reading a measurement... Distance (mm): 94.83
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 92.89
+279
+Reading a measurement... Distance (mm): 88.04
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 93.86
+279
+Reading a measurement... Distance (mm): 89.98
+279
+Reading a measurement... Distance (mm): 89.98
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 91.92
+279
+Reading a measurement... Distance (mm): 91.92
+279
+Reading a measurement... Distance (mm): 89.98
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 87.07
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 90.95
+279
+Reading a measurement... Distance (mm): 91.92
+279
+Reading a measurement... Distance (mm): 89.98
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 92.89
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 94.83
+279
+Reading a measurement... Distance (mm): 95.80
+279
+Reading a measurement... Distance (mm): 95.80
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 94.83
+279
+Reading a measurement... Distance (mm): 95.80
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 94.83
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 95.80
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 94.83
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 104.53
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 105.50
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 114.22
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 119.07
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 95.80
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 121.01
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 124.89
+279
+Reading a measurement... Distance (mm): 121.98
+279
+Reading a measurement... Distance (mm): 122.95
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 123.92
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 107.44
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 95.80
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 94.83
+279
+Reading a measurement... Distance (mm): 106.47
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 120.04
+279
+Reading a measurement... Distance (mm): 110.35
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 111.32
+279
+Reading a measurement... Distance (mm): 118.10
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 117.13
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 115.19
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 116.16
+279
+Reading a measurement... Distance (mm): 113.25
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 94.83
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 94.83
+279
+Reading a measurement... Distance (mm): 97.74
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 101.62
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 102.59
+279
+Reading a measurement... Distance (mm): 96.77
+279
+Reading a measurement... Distance (mm): 103.56
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 112.28
+279
+Reading a measurement... Distance (mm): 108.41
+279
+Reading a measurement... Distance (mm): 109.38
+279
+Reading a measurement... Distance (mm): 98.71
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 100.65
+279
+Reading a measurement... Distance (mm): 99.68
+279
+Reading a measurement... Distance (mm): 89.01
+279
+Reading a measurement... Distance (mm): 91.92
+279
+Reading a measurement... Distance (mm): 93.86
+279
+Reading a measurement... Distance (mm): 92.89
+279
+Reading a measurement... Distance (mm): 92.89
+279
+Reading a measurement... Distance (mm): 92.89
+279
+Reading a measurement... Distance (mm): 94.83

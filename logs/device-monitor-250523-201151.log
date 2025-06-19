@@ -1,0 +1,6971 @@
+PI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 88.04
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 1
+1 0 0 0
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 1
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 1
+1 0 0 0
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: -3.11
+0
+1 0 0 0
+Distance: 12.41
+0
+1 0 0 0
+Distance: 14.35
+1
+1 0 0 0
+Distance: 2.71
+2
+1 0 0 0
+Distance: 6.59
+3
+1 0 0 0
+Distance: 6.59
+4
+1 0 0 0
+Distance: 14.35
+5
+1 0 0 0
+Distance: 14.35
+6
+1 0 0 0
+Distance: 14.35
+7
+1 0 0 0
+Distance: 11.44
+8
+1 0 0 0
+Distance: 14.35
+9
+1 0 0 0
+Distance: 12.41
+10
+1 0 0 0
+Distance: 14.35
+11
+1 0 0 0
+Distance: 11.44
+12
+1 0 0 0
+Distance: 13.38
+13
+1 0 0 0
+Distance: 13.38
+14
+1 0 0 0
+Distance: 15.31
+15
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+15
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 10.47
+15
+1 0 0 0
+Distance: 15.31
+16
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+16
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+16
+1 0 0 0
+Distance: 17.25
+17
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+17
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+17
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+17
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+17
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+17
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+17
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+17
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+17
+1 0 0 0
+Distance: 18.22
+18
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+18
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+18
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+18
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+18
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+18
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+18
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+18
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 13.38
+18
+1 0 0 0
+Distance: 19.19
+19
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+19
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+19
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+19
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+19
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+19
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+19
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+19
+1 0 0 0
+Distance: 22.10
+20
+Grip
+Stage 3: Move to target 1
+Stage 4: Release object
+1
+0 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 104.53
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 102.59
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 103.56
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 103.56
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 102.59
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 102.59
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 103.56
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 105.50
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 102.59
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 102.59
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 106.47
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 103.56
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 105.50
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 108.41
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 108.41
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 102.59
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 108.41
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 104.53
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 106.47
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 107.44
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 105.50
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 102.59
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 105.50
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 102.59
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 104.53
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 83.19
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 85.13
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 88.04
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 87.07
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 86.10
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 91.92
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 88.04
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 92.89
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 88.04
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 95.80
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 8.53
+0
+1 0 0 0
+Distance: 3.68
+1
+1 0 0 0
+Distance: 6.59
+2
+1 0 0 0
+Distance: 14.35
+3
+1 0 0 0
+Distance: 23.07
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+4
+1 0 0 0
+Distance: 11.44
+5
+1 0 0 0
+Distance: 9.50
+6
+1 0 0 0
+Distance: 7.56
+7
+1 0 0 0
+Distance: 7.56
+8
+1 0 0 0
+Distance: 7.56
+9
+1 0 0 0
+Distance: 8.53
+10
+1 0 0 0
+Distance: 8.53
+11
+1 0 0 0
+Distance: 3.68
+12
+1 0 0 0
+Distance: 10.47
+13
+1 0 0 0
+Distance: 9.50
+14
+1 0 0 0
+Distance: 8.53
+15
+1 0 0 0
+Distance: 6.59
+16
+1 0 0 0
+Distance: 7.56
+17
+1 0 0 0
+Distance: 7.56
+18
+1 0 0 0
+Distance: 7.56
+19
+1 0 0 0
+Distance: 6.59
+20
+Grip
+Stage 3: Move to target 2
+Stage 4: Release object
+1
+0 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 81.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 80.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 88.04
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 88.04
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 84.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 85.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 84.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 88.04
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 102.59
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 100.65
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 107.44
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 105.50
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 103.56
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 103.56
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 104.53
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 103.56
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 101.62
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 96.77
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 97.74
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 99.68
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 86.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 86.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 80.28
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 48.28
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 46.35
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 34.71
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 36.65
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 34.71
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 35.68
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 35.68
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 41.50
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 42.47
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 42.47
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 36.65
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 35.68
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 32.77
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 32.77
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 32.77
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 34.71
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 34.71
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 36.65
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 34.71
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 32.77
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 35.68
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 34.71
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 35.68
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 36.65
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 34.71
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 33.74
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 34.71
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 32.77
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 35.68
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 32.77
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 34.71
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 32.77
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+0
+1 0 0 0
+Distance: 16.28
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 13.38
+1
+1 0 0 0
+Distance: 15.31
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+2
+1 0 0 0
+Distance: 14.35
+3
+1 0 0 0
+Distance: 17.25
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 11.44
+4
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+5
+1 0 0 0
+Distance: 14.35
+6
+1 0 0 0
+Distance: 13.38
+7
+1 0 0 0
+Distance: 15.31
+8
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+8
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+8
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 13.38
+8
+1 0 0 0
+Distance: 16.28
+9
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+9
+1 0 0 0
+Distance: 10.47
+10
+1 0 0 0
+Distance: 14.35
+11
+1 0 0 0
+Distance: 14.35
+12
+1 0 0 0
+Distance: 16.28
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 11.44
+13
+1 0 0 0
+Distance: 10.47
+14
+1 0 0 0
+Distance: 14.35
+15
+1 0 0 0
+Distance: 14.35
+16
+1 0 0 0
+Distance: 12.41
+17
+1 0 0 0
+Distance: 10.47
+18
+1 0 0 0
+Distance: 11.44
+19
+1 0 0 0
+Distance: 14.35
+20
+Grip
+Stage 3: Move to target 1
+Stage 4: Release object
+1
+0 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 85.13
+0
+Stage 1: Approach to point 2
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 81.25
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 88.04
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 76.41
+0
+Stage 1: Approach to point 2
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+1 0 0 0
+Distance: 19.19
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+1
+1 0 0 0
+Distance: 15.31
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+2
+1 0 0 0
+Distance: 17.25
+3
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+3
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+3
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+3
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 11.44
+3
+1 0 0 0
+Distance: 20.16
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 13.38
+4
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+5
+1 0 0 0
+Distance: 19.19
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+6
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 13.38
+6
+1 0 0 0
+Distance: 14.35
+7
+1 0 0 0
+Distance: 18.22
+8
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+8
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+8
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+8
+1 0 0 0
+Distance: 17.25
+9
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+9
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+9
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+9
+1 0 0 0
+Distance: 13.38
+10
+1 0 0 0
+Distance: 16.28
+11
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+11
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+11
+1 0 0 0
+Distance: 18.22
+12
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+12
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+12
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+12
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+12
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+12
+1 0 0 0
+Distance: 20.16
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+13
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+13
+1 0 0 0
+Distance: 17.25
+14
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+14
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+14
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+14
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+14
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+14
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+14
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+14
+1 0 0 0
+Distance: 18.22
+15
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+15
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+15
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+15
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 13.38
+15
+1 0 0 0
+Distance: 11.44
+16
+1 0 0 0
+Distance: 12.41
+17
+1 0 0 0
+Distance: 11.44
+18
+1 0 0 0
+Distance: 12.41
+19
+1 0 0 0
+Distance: 12.41
+20
+Grip
+Stage 3: Move to target 2
+Stage 4: Release object
+1
+0 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0

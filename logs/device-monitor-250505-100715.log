@@ -1,0 +1,105 @@
+
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Adafruit VL53L0X test
+VL53L0X API Simple Ranging example
+
+
+Reading a measurement... Distance (mm): 282
+Reading a measurement... Distance (mm): 295
+Reading a measurement... Distance (mm): 316
+Reading a measurement... Distance (mm): 277
+Reading a measurement... Distance (mm): 336
+Reading a measurement... Distance (mm): 338
+Reading a measurement... Distance (mm): 8
+Reading a measurement... Distance (mm): 12
+Reading a measurement... Distance (mm): 29
+Reading a measurement... Distance (mm): 11
+Reading a measurement... Distance (mm): 6
+Reading a measurement... Distance (mm): 5
+Reading a measurement... Distance (mm): 2
+Reading a measurement... Distance (mm): 6
+Reading a measurement... Distance (mm): 10
+Reading a measurement... Distance (mm): 6
+Reading a measurement... Distance (mm): 7
+Reading a measurement... Distance (mm): 7
+Reading a measurement... Distance (mm): 7
+Reading a measurement... Distance (mm): 7
+Reading a measurement... Distance (mm): 4
+Reading a measurement... Distance (mm): 7
+Reading a measurement... Distance (mm): 4
+Reading a measurement... Distance (mm): 6
+Reading a measurement... Distance (mm): 6
+Reading a measurement... Distance (mm): 5
+Reading a measurement... Distance (mm): 3
+Reading a measurement... Distance (mm): 6
+Reading a measurement... Distance (mm): 7
+Reading a measurement... Distance (mm): 5
+Reading a measurement... Distance (mm): 4
+Reading a measurement... Distance (mm): 4
+Reading a measurement... Distance (mm): 5
+Reading a measurement... Distance (mm): 3
+Reading a measurement... Distance (mm): 5
+Reading a measurement... Distance (mm): 8
+Reading a measurement... Distance (mm): 6
+Reading a measurement... Distance (mm): 7
+Reading a measurement... Distance (mm): 3
+Reading a measurement... Distance (mm): 7
+Reading a measurement... Distance (mm): 503
+Reading a measurement... Distance (mm): 98
+Reading a measurement... Distance (mm): 125
+Reading a measurement... Distance (mm): 124
+Reading a measurement... Distance (mm): 125
+Reading a measurement... Distance (mm): 123
+Reading a measurement... Distance (mm): 106
+Reading a measurement... Distance (mm): 137
+Reading a measurement... Distance (mm): 193
+Reading a measurement... Distance (mm): 275
+Reading a measurement... Distance (mm): 206
+Reading a measurement... Distance (mm): 189
+Reading a measurement... Distance (mm): 127
+Reading a measurement... Distance (mm): 86
+Reading a measurement... Distance (mm): 158
+Reading a measurement... Distance (mm): 59
+Reading a measurement... Distance (mm): 122
+Reading a measurement... Distance (mm): 301
+Reading a measurement... Distance (mm): 221
+Reading a measurement... Distance (mm): 194
+Reading a measurement... Distance (mm): 180
+Reading a measurement... Distance (mm): 180
+Reading a measurement... Distance (mm): 178
+Reading a measurement... Distance (mm): 172
+Reading a measurement... Distance (mm): 169
+Reading a measurement... Distance (mm): 164
+Reading a measurement... Distance (mm): 168
+Reading a measurement... Distance (mm): 168
+Reading a measurement... Distance (mm): 200
+Reading a measurement... Distance (mm): 379
+Reading a measurement... Distance (mm): 408
+Reading a measurement... Distance (mm): 385
+Reading a measurement... Distance (mm): 441
+Reading a measurement... Distance (mm): 360
+Reading a measurement... Distance (mm): 403
+Reading a measurement... Distance (mm): 395
+Reading a measurement... Distance (mm): 381
+Reading a measurement... Distance (mm): 364
+Reading a measurement... Distance (mm): 383
+Reading a measurement... Distance (mm): 418
+Reading a measurement... Distance (mm): 366
+Reading a measurement... Distance (mm): 389
+Reading a measurement... Distance (mm): 402
+Reading a measurement... Distance (mm): 371
+Reading a measurement... Distance (mm): 368
+Reading a measurement... Distance (mm): 408
+Reading a measurement... Distance (mm): 415
+Reading a measurement... Distance (mm): 369
+Reading a measurement... Distance (mm): 412
+Reading a measurement... 

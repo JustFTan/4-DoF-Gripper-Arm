@@ -1,0 +1,176 @@
+PI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 86.10
+Distance: 87.07
+Distance: 89.01
+Distance: 92.89
+Distance: 93.86
+Distance: 91.92
+Distance: 93.86
+Distance: 94.83
+Distance: 88.04
+Distance: 88.04
+Distance: 89.98
+Distance: 89.01
+Distance: 89.98
+Distance: 91.92
+Distance: 93.86
+Distance: 91.92
+Distance: 95.80
+Distance: 91.92
+Distance: 91.92
+Distance: 93.86
+Distance: 89.98
+Distance: 89.98
+Distance: 89.01
+Distance: 88.04
+Distance: 87.07
+Distance: 89.98
+Distance: 89.98
+Distance: 88.04
+Distance: 89.98
+Distance: 85.13
+Distance: 88.04
+Distance: 87.07
+Distance: 88.04
+Distance: 87.07
+Distance: 87.07
+Distance: 86.10
+Distance: 90.95
+Distance: 89.01
+Distance: 88.04
+Distance: 86.10
+Distance: 84.16
+Distance: 86.10
+Distance: 89.01
+Distance: 85.13
+Distance: 87.07
+Distance: 88.04
+Distance: 85.13
+Distance: 88.04
+Distance: 85.13
+Distance: 85.13
+Distance: 84.16
+Distance: 79.32
+Distance: 77.38
+Distance: 76.41
+Distance: 77.38
+Distance: 79.32
+Distance: 73.50
+Distance: 75.44
+Distance: 76.41
+Distance: 73.50
+Distance: 78.35
+Distance: 76.41
+Distance: 84.16
+Distance: 81.25
+Distance: 83.19
+Distance: 85.13
+Distance: 81.25
+Distance: 72.53
+Distance: 73.50
+Distance: 65.74
+Distance: 65.74
+Distance: 56.04
+Distance: 56.04
+Distance: 56.04
+Distance: 57.01
+Distance: 55.07
+Distance: 57.01
+Distance: 60.89
+Distance: 55.07
+Distance: 57.98
+Distance: 56.04
+Distance: 57.01
+Distance: 55.07
+Distance: 57.98
+Distance: 55.07
+Distance: 54.10
+Distance: 54.10
+Distance: 55.07
+Distance: 56.04
+Distance: 57.98
+Distance: 54.10
+Distance: 56.04
+Distance: 56.04
+Distance: 57.01
+Distance: 55.07
+Distance: 57.01
+Distance: 57.01
+Distance: 55.07
+Distance: 55.07
+Distance: 57.01
+Distance: 54.10
+Distance: 53.13
+Distance: 50.22
+Distance: 48.28
+Distance: 48.28
+Distance: 53.13
+Distance: 57.01
+Distance: 54.10
+Distance: 54.10
+Distance: 55.07
+Distance: 64.77
+Distance: 83.19
+Distance: 80.28
+Distance: 56.04
+Distance: 48.28
+Distance: 55.07
+Distance: 54.10
+Distance: 26.95
+Distance: 32.77
+Distance: 31.80
+Distance: 31.80
+Distance: 26.95
+Distance: 22.10
+Object is close enough. Stopping grip and continuing process.
+Distance: 20.16
+Object is close enough. Stopping grip and continuing process.
+Distance: 15.31
+Object is close enough. Stopping grip and continuing process.
+Distance: 9.50
+Object is close enough. Stopping grip and continuing process.
+Distance: 9.50
+Object is close enough. Stopping grip and continuing process.
+Distance: 11.44
+Object is close enough. Stopping grip and continuing process.
+Distance: 5.62
+Object is close enough. Stopping grip and continuing process.
+Distance: 83.19
+Distance: 63.80
+Distance: 56.04
+Distance: 56.04
+Distance: 69.62
+Distance: 89.01
+Distance: 103.56
+Distance: 91.92
+Distance: 78.35
+Distance: 72.53
+Distance: 67.68
+Distance: 72.53
+Distance: 74.47
+Distance: 95.80
+Distance: 76.41
+Distance: 63.80
+Distance: 50.22
+Distance: 50.22
+Distance: 46.35
+Distance: 46.35
+Distance: 49.25
+Distance: 44.41
+Distance: 40.53
+Distance: 30.83
+Distance: 24.04
+Object is close enough. Stopping grip and continuing process.
+Distance: 11.44
+Object is close enough. Stopping grip and continuing process.
+Distance: 15.31
+Object is close enough. Stopping grip and continuing process.
+Distance: 16.28
+Object is close enough. Stopping grip and continuing process.

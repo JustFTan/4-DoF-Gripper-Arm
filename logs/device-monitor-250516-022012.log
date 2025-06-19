@@ -1,0 +1,264 @@
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 545.74
+Distance: 517.62
+Distance: 523.44
+Distance: 517.62
+Distance: 522.47
+Distance: 532.17
+Distance: 541.86
+Distance: 541.86
+Distance: 519.56
+Distance: 529.26
+Distance: 513.74
+Distance: 526.35
+Distance: 529.26
+Distance: 525.38
+Distance: 544.77
+Distance: 520.53
+Distance: 534.10
+Distance: 534.10
+Distance: 511.80
+Distance: 529.26
+Distance: 544.77
+Distance: 540.89
+Distance: 522.47
+Distance: 529.26
+Distance: 524.41
+Distance: 523.44
+Distance: 543.80
+Distance: 552.53
+Distance: 514.71
+Distance: 512.77
+Distance: 505.98
+Distance: 512.77
+Distance: 556.41
+Distance: 528.29
+Distance: 526.35
+Distance: 515.68
+Distance: 511.80
+Distance: 519.56
+Distance: 537.98
+Distance: 511.80
+Distance: 526.35
+Distance: 531.20
+Distance: 507.92
+Distance: 537.98
+Distance: 529.26
+Distance: 535.07
+Distance: 518.59
+Distance: 511.80
+Distance: 527.32
+Distance: 532.17
+Distance: 531.20
+Distance: 519.56
+Distance: 521.50
+Distance: 541.86
+Distance: 516.65
+Distance: 534.10
+Distance: 515.68
+Distance: 537.01
+Distance: 513.74
+Distance: 177.25
+Distance: 182.10
+Distance: 184.04
+Distance: 175.32
+Distance: 169.50
+Distance: 155.92
+Distance: 146.22
+Distance: 135.56
+Distance: 121.01
+Distance: 121.01
+Distance: 116.16
+Distance: 108.41
+Distance: 108.41
+Distance: 101.62
+Distance: 104.53
+Distance: 107.44
+Distance: 106.47
+Distance: 105.50
+Distance: 102.59
+Distance: 98.71
+Distance: 96.77
+Distance: 96.77
+Distance: 95.80
+Distance: 93.86
+Distance: 92.89
+Distance: 93.86
+Distance: 90.95
+Distance: 88.04
+Distance: 85.13
+Distance: 85.13
+Distance: 80.28
+Distance: 79.32
+Distance: 79.32
+Distance: 79.32
+Distance: 75.44
+Distance: 74.47
+Distance: 72.53
+Distance: 72.53
+Distance: 66.71
+Distance: 63.80
+Distance: 64.77
+Distance: 61.86
+Distance: 62.83
+Distance: 60.89
+Distance: 64.77
+Distance: 64.77
+Distance: 63.80
+Distance: 62.83
+Distance: 61.86
+Distance: 60.89
+Distance: 61.86
+Distance: 60.89
+Distance: 57.98
+Distance: 60.89
+Distance: 57.98
+Distance: 58.95
+Distance: 57.98
+Distance: 57.98
+Distance: 55.07
+Distance: 57.01
+Distance: 54.10
+Distance: 55.07
+Distance: 55.07
+Distance: 54.10
+Distance: 54.10
+Distance: 50.22
+Distance: 54.10
+Distance: 51.19
+Distance: 50.22
+Distance: 50.22
+Distance: 53.13
+Distance: 52.16
+Distance: 50.22
+Distance: 54.10
+Distance: 53.13
+Distance: 56.04
+Distance: 51.19
+Distance: 52.16
+Distance: 51.19
+Distance: 48.28
+Distance: 51.19
+Distance: 54.10
+Distance: 48.28
+Distance: 50.22
+Distance: 51.19
+Distance: 48.28
+Distance: 51.19
+Distance: 48.28
+Distance: 49.25
+Distance: 49.25
+Distance: 51.19
+Distance: 49.25
+Distance: 47.32
+Distance: 49.25
+Distance: 50.22
+Distance: 46.35
+Distance: 48.28
+Distance: 45.38
+Distance: 48.28
+Distance: 48.28
+Distance: 47.32
+Distance: 46.35
+Distance: 48.28
+Distance: 51.19
+Distance: 51.19
+Distance: 51.19
+Guru Meditation Error: Core  1 panic'ed (Unhandled debug exception). 
+Debug exception reason: Stack canary watchpoint triggered (loopTask) 
+Core  1 register dump:
+PC      : 0x4008b3d7  PS      : 0x00060036  A0      : 0x80089f08  A1      : 0x3ffb0320  
+A2      : 0x3ffbf688  A3      : 0xb33fffff  A4      : 0x0000cdcd  A5      : 0x00060023  
+A6      : 0x00060023  A7      : 0x0000abab  A8      : 0xb33fffff  A9      : 0xffffffff  
+A10     : 0x3ffbf678  A11     : 0x00000001  A12     : 0x00060021  A13     : 0x3ffb0400  
+A14     : 0x007bf688  A15     : 0x003fffff  SAR     : 0x00000000  EXCCAUSE: 0x00000001  
+EXCVADDR: 0x00000000  LBEG    : 0x400863c4  LEND    : 0x400863da  LCOUNT  : 0x00000000  
+
+
+Backtrace: 0x4008b3d4:0x3ffb0320 0x40089f05:0x3ffb0360 0x400887c0:0x3ffb0390 0x40088770:0xa5a5a5a5 |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 8c249a639b144176
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 493.38
+Distance: 525.38
+Distance: 545.74
+Distance: 505.98
+Distance: 525.38
+Distance: 532.17
+Distance: 523.44
+Distance: 522.47
+Distance: 515.68
+Distance: 118.10
+Distance: 90.95
+Distance: 74.47
+Distance: 69.62
+Distance: 64.77
+Distance: 63.80
+Distance: 59.92
+Distance: 64.77
+Distance: 59.92
+Distance: 60.89
+Distance: 57.01
+Distance: 57.98
+Distance: 59.92
+Distance: 55.07
+Distance: 55.07
+Distance: 56.04
+Distance: 54.10
+Distance: 53.13
+Distance: 54.10
+Distance: 54.10
+Distance: 57.01
+Distance: 54.10
+Distance: 56.04
+Distance: 56.04
+Distance: 55.07
+Distance: 53.13
+Distance: 52.16
+Distance: 56.04
+Distance: 57.98
+Distance: 54.10
+Distance: 54.10
+Distance: 56.04
+Distance: 55.07
+Distance: 56.04
+Distance: 55.07
+Distance: 54.10
+Distance: 56.04
+Distance: 54.10
+Distance: 53.13
+Distance: 50.22
+Distance: 49.25
+Distance: 50.22
+Distance: 54.10
+Distance: 48.28
+Distance: 46.35
+Distance: 43.44
+Distance: 43.44
+Distance: 38.59
+Distance: 32.77
+Distance: 26.95
+Distance: 25.98
+Object close enough. Stopping slow grip.
+Object close enough. Stopping slow grip.

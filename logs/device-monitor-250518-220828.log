@@ -1,0 +1,132 @@
+gsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+[  1087][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  2095][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  3102][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  4109][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  5116][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  6123][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  7130][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  8137][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  9144][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 10151][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 11158][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 12165][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 13172][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 14179][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 15186][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 16193][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 17200][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 18207][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 19214][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 20221][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 21228][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 22235][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 23242][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 24249][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 25256][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 26263][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 27281][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 28289][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 29296][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 30303][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 31310][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 32317][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 33324][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 34331][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 35338][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 36345][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 37352][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 38359][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 39366][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 40373][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 41380][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 42387][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+Sensor VL53L0X gagal diinisialisasi.
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Stage 1: Approach object 
+0
+Stage 2: Grip slowly
+0
+Distance: 6.59
+Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0
+Stage 3: Move to target
+0
+Stage 4: Release object
+0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4

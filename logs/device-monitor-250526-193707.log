@@ -1,0 +1,5762 @@
+gsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 94.83
+0
+Stage 1: Approach to point 1
+Distance: 106.47
+0
+Distance: 105.50
+0
+Distance: 104.53
+0
+Distance: 103.56
+0
+Distance: 104.53
+0
+Distance: 100.65
+0
+Distance: 105.50
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 105.50
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 101.62
+0
+Distance: 105.50
+0
+Distance: 103.56
+0
+Distance: 101.62
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 101.62
+0
+Distance: 98.71
+0
+Distance: 102.59
+0
+Distance: 102.59
+0
+Distance: 99.68
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 98.71
+0
+Distance: 99.68
+0
+Distance: 105.50
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 108.41
+0
+Distance: 102.59
+0
+Distance: 102.59
+0
+Distance: 100.65
+0
+Distance: 103.56
+0
+Distance: 101.62
+0
+Distance: 101.62
+0
+Distance: 106.47
+0
+Distance: 105.50
+0
+Distance: 104.53
+0
+Distance: 104.53
+0
+Distance: 101.62
+0
+Distance: 107.44
+0
+Distance: 103.56
+0
+Distance: 102.59
+0
+Distance: 100.65
+0
+Distance: 105.50
+0
+Distance: 105.50
+0
+Distance: 100.65
+0
+Distance: 109.38
+0
+Distance: 107.44
+0
+Distance: 105.50
+0
+Distance: 103.56
+0
+Distance: 106.47
+0
+Distance: 103.56
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 106.47
+0
+Distance: 105.50
+0
+Distance: 109.38
+0
+Distance: 104.53
+0
+Distance: 105.50
+0
+Distance: 102.59
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 102.59
+0
+Distance: 105.50
+0
+Distance: 104.53
+0
+Distance: 101.62
+0
+Distance: 101.62
+0
+Distance: 100.65
+0
+Distance: 106.47
+0
+Distance: 100.65
+0
+Distance: 106.47
+0
+Distance: 103.56
+0
+Distance: 102.59
+0
+Distance: 105.50
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 104.53
+0
+Distance: 105.50
+0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 93.86
+0
+Stage 1: Approach to point 1
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 87.07
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 89.98
+0
+Distance: 90.95
+0
+Distance: 86.10
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 88.04
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 91.92
+0
+Distance: 89.01
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 88.04
+0
+Distance: 95.80
+0
+Distance: 91.92
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 87.07
+0
+Distance: 91.92
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 87.07
+0
+Distance: 93.86
+0
+Distance: 90.95
+0
+Distance: 87.07
+0
+Distance: 91.92
+0
+Distance: 91.92
+0
+Distance: 87.07
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 91.92
+0
+Distance: 91.92
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 94.83
+0
+Distance: 90.95
+0
+Distance: 97.74
+0
+Distance: 92.89
+0
+Distance: 90.95
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 100.65
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 101.62
+0
+Distance: 99.68
+0
+Distance: 100.65
+0
+Distance: 97.74
+0
+Distance: 103.56
+0
+Distance: 101.62
+0
+Distance: 105.50
+0
+Distance: 102.59
+0
+Distance: 98.71
+0
+Distance: 101.62
+0
+Distance: 97.74
+0
+Distance: 101.62
+0
+Distance: 98.71
+0
+Distance: 102.59
+0
+Distance: 102.59
+0
+Distance: 98.71
+0
+Distance: 101.62
+0
+Distance: 101.62
+0
+Distance: 96.77
+0
+Distance: 98.71
+0
+Distance: 101.62
+0
+Distance: 97.74
+0
+Distance: 101.62
+0
+Distance: 98.71
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 91.92
+0
+Distance: 89.98
+0
+Distance: 86.10
+0
+Distance: 87.07
+0
+Distance: 92.89
+0
+Distance: 98.71
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 92.89
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+Distance: 92.89
+0
+Distance: 90.95
+0
+Distance: 95.80
+0
+Distance: 97.74
+0
+Distance: 91.92
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 88.04
+0
+Distance: 90.95
+0
+Distance: 87.07
+0
+Distance: 87.07
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 92.89
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 86.10
+0
+Distance: 88.04
+0
+Distance: 87.07
+0
+Distance: 87.07
+0
+Distance: 90.95
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 90.95
+0
+Distance: 87.07
+0
+Distance: 86.10
+0
+Distance: 89.98
+0
+Distance: 93.86
+0
+Distance: 88.04
+0
+Distance: 87.07
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 87.07
+0
+Distance: 87.07
+0
+Distance: 88.04
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 89.01
+0
+Distance: 87.07
+0
+Distance: 92.89
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 86.10
+0
+Distance: 89.01
+0
+Distance: 88.04
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 86.10
+0
+Distance: 89.01
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 89.98
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 92.89
+0
+Distance: 86.10
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 86.10
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 84.16
+0
+Distance: 87.07
+0
+Distance: 88.04
+0
+Distance: 84.16
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 84.16
+0
+Distance: 89.98
+0
+Distance: 89.01
+0
+Distance: 90.95
+0
+Distance: 89.01
+0
+Distance: 87.07
+0
+Distance: 88.04
+0
+Distance: 82.22
+0
+Distance: 87.07
+0
+Distance: 84.16
+0
+Distance: 87.07
+0
+Distance: 85.13
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 81.25
+0
+Distance: 82.22
+0
+Distance: 84.16
+0
+Distance: 79.32
+0
+Distance: 83.19
+0
+Distance: 79.32
+0
+Distance: 84.16
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 82.22
+0
+Distance: 83.19
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 77.38
+0
+Distance: 83.19
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 75.44
+0
+Distance: 81.25
+0
+Distance: 78.35
+0
+Distance: 78.35
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 76.41
+0
+Distance: 73.50
+0
+Distance: 76.41
+0
+Distance: 75.44
+0
+Distance: 78.35
+0
+Distance: 75.44
+0
+Distance: 81.25
+0
+Distance: 82.22
+0
+Distance: 85.13
+0
+Distance: 85.13
+0
+Distance: 82.22
+0
+Distance: 80.28
+0
+Distance: 86.10
+0
+Distance: 85.13
+0
+Distance: 82.22
+0
+Distance: 84.16
+0
+Distance: 84.16
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 83.19
+0
+Distance: 85.13
+0
+Distance: 81.25
+0
+Distance: 83.19
+0
+Distance: 82.22
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 73.50
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 73.50
+0
+Distance: 73.50
+0
+Distance: 76.41
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 74.47
+0
+Distance: 81.25
+0
+Distance: 83.19
+0
+Distance: 84.16
+0
+Distance: 88.04
+0
+Distance: 86.10
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 92.89
+0
+Distance: 98.71
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 97.74
+0
+Distance: 100.65
+0
+Distance: 100.65
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 99.68
+0
+Distance: 101.62
+0
+Distance: 103.56
+0
+Distance: 102.59
+0
+Distance: 104.53
+0
+Distance: 104.53
+0
+Distance: 103.56
+0
+Distance: 98.71
+0
+Distance: 103.56
+0
+Distance: 100.65
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 102.59
+0
+Distance: 104.53
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 104.53
+0
+Distance: 101.62
+0
+Distance: 102.59
+0
+Distance: 105.50
+0
+Distance: 104.53
+0
+Distance: 102.59
+0
+Distance: 99.68
+0
+Distance: 101.62
+0
+Distance: 98.71
+0
+Distance: 102.59
+0
+Distance: 100.65
+0
+Distance: 100.65
+0
+Distance: 101.62
+0
+Distance: 100.65
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 98.71
+0
+Distance: 99.68
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 98.71
+0
+Distance: 98.71
+0
+Distance: 102.59
+0
+Distance: 99.68
+0
+Distance: 100.65
+0
+Distance: 101.62
+0
+Distance: 101.62
+0
+Distance: 104.53
+0
+Distance: 100.65
+0
+Distance: 100.65
+0
+Distance: 96.77
+0
+Distance: 101.62
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 96.77
+0
+Distance: 100.65
+0
+Distance: 93.86
+0
+Distance: 98.71
+0
+Distance: 104.53
+0
+Distance: 100.65
+0
+Distance: 100.65
+0
+Distance: 98.71
+0
+Distance: 97.74
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 97.74
+0
+Distance: 96.77
+0
+Distance: 95.80
+0
+Distance: 98.71
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 98.71
+0
+Distance: 99.68
+0
+Distance: 101.62
+0
+Distance: 95.80
+0
+Distance: 97.74
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 101.62
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 95.80
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 96.77
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 101.62
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 97.74
+0
+Distance: 94.83
+0
+Distance: 101.62
+0
+Distance: 92.89
+0
+Distance: 95.80
+0
+Distance: 101.62
+0
+Distance: 98.71
+0
+Distance: 96.77
+0
+Distance: 94.83
+0
+Distance: 97.74
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 99.68
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 99.68
+0
+Distance: 90.95
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 93.86
+0
+Stage 1: Approach to point 1
+Distance: 82.22
+0
+Distance: 83.19
+0
+Distance: 81.25
+0
+Distance: 87.07
+0
+Distance: 80.28
+0
+Distance: 85.13
+0
+Distance: 89.01
+0
+Distance: 86.10
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 90.95
+0
+Distance: 91.92
+0
+Distance: 93.86
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 90.95
+0
+Distance: 94.83
+0
+Distance: 99.68
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 99.68
+0
+Distance: 103.56
+0
+Distance: 98.71
+0
+Distance: 98.71
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 102.59
+0
+Distance: 100.65
+0
+Distance: 100.65
+0
+Distance: 100.65
+0
+Distance: 99.68
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 97.74
+0
+Distance: 95.80
+0
+Distance: 101.62
+0
+Distance: 95.80
+0
+Distance: 97.74
+0
+Distance: 99.68
+0
+Distance: 101.62
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 95.80
+0
+Distance: 91.92
+0
+Distance: 96.77
+0
+Distance: 92.89
+0
+Distance: 97.74
+0
+Distance: 96.77
+0
+Distance: 93.86
+0
+Distance: 97.74
+0
+Distance: 91.92
+0
+Distance: 96.77
+0
+Distance: 98.71
+0
+Distance: 97.74
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 95.80
+0
+Distance: 99.68
+0
+Distance: 92.89
+0
+Distance: 93.86
+0
+Distance: 98.71
+0
+Distance: 93.86
+0
+Distance: 95.80
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 92.89
+0
+Distance: 96.77
+0
+Distance: 98.71
+0
+Distance: 98.71
+0
+Distance: 95.80
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 99.68
+0
+Distance: 99.68
+0
+Distance: 99.68
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 102.59
+0
+Distance: 100.65
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 99.68
+0
+Distance: 105.50
+0
+Distance: 101.62
+0
+Distance: 99.68
+0
+Distance: 105.50
+0
+Distance: 99.68
+0
+Distance: 98.71
+0
+Distance: 101.62
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 104.53
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 106.47
+0
+Distance: 104.53
+0
+Distance: 100.65
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 101.62
+0
+Distance: 98.71
+0
+Distance: 101.62
+0
+Distance: 97.74
+0
+Distance: 101.62
+0
+Distance: 96.77
+0
+Distance: 98.71
+0
+Distance: 103.56
+0
+Distance: 99.68
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 102.59
+0
+Distance: 93.86
+0
+Distance: 100.65
+0
+Distance: 98.71
+0
+Distance: 98.71
+0
+Distance: 93.86
+0
+Distance: 99.68
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+Distance: 97.74
+0
+Distance: 100.65
+0
+Distance: 97.74
+0
+Distance: 95.80
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 93.86
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 101.62
+0
+Distance: 97.74
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 97.74
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 84.16
+0
+Distance: 86.10
+0
+Distance: 85.13
+0
+Distance: 84.16
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 82.22
+0
+Distance: 82.22
+0
+Distance: 77.38
+0
+Distance: 74.47
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 75.44
+0
+Distance: 74.47
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 83.19
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 76.41
+0
+Distance: 81.25
+0
+Distance: 76.41
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 75.44
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 81.25
+0
+Distance: 78.35
+0
+Distance: 82.22
+0
+Distance: 77.38
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 84.16
+0
+Distance: 78.35
+0
+Distance: 85.13
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 77.38
+0
+Distance: 77.38
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 85.13
+0
+Distance: 77.38
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 73.50
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 72.53
+0
+Distance: 74.47
+0
+Distance: 71.56
+0
+Distance: 75.44
+0
+Distance: 78.35
+0
+Distance: 82.22
+0
+Distance: 75.44
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 78.35
+0
+Distance: 83.19
+0
+Distance: 75.44
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 73.50
+0
+Distance: 83.19
+0
+Distance: 73.50
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 83.19
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 75.44
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 76.41
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 74.47
+0
+Distance: 75.44
+0
+Distance: 76.41
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 75.44
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 78.35
+0
+Distance: 82.22
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 86.10
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 84.16
+0
+Distance: 82.22
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 81.25
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 75.44
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 76.41
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 83.19
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 85.13
+0
+Distance: 84.16
+0
+Distance: 81.25
+0
+Distance: 87.07
+0
+Distance: 85.13
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 85.13
+0
+Distance: 91.92
+0
+Distance: 88.04
+0
+Distance: 88.04
+0
+Distance: 88.04
+0
+Distance: 85.13
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 87.07
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 88.04
+0
+Distance: 86.10
+0
+Distance: 88.04
+0
+Distance: 85.13
+0
+Distance: 87.07
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 87.07
+0
+Distance: 86.10
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 86.10
+0
+Distance: 88.04
+0
+Distance: 88.04
+0
+Distance: 84.16
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 91.92
+0
+Distance: 90.95
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 89.98
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 92.89
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 88.04
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 92.89
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+Distance: 92.89
+0
+Distance: 90.95
+0
+Distance: 92.89
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 93.86
+0
+Distance: 92.89
+0
+Distance: 95.80
+0
+Distance: 89.01
+0
+Distance: 93.86
+0
+Distance: 89.98
+0
+Distance: 88.04
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 93.86
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 97.74
+0
+Distance: 89.98
+0
+Distance: 93.86
+0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 84.16
+0
+Stage 1: Approach to point 1
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 91.92
+0
+Stage 1: Approach to point 1
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 81.25
+0
+Distance: 75.44
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 82.22
+0
+Distance: 79.32
+0
+Distance: 88.04
+0
+Distance: 88.04
+0
+Distance: 94.83
+0
+Distance: 89.01
+0
+Distance: 91.92
+0
+Distance: 93.86
+0
+Distance: 95.80
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 96.77
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 98.71
+0
+Distance: 99.68
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 91.92
+0
+Distance: 94.83
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 86.10
+0
+Distance: 89.01
+0
+Distance: 91.92
+0
+Distance: 94.83
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 96.77
+0
+Distance: 90.95
+0
+Distance: 91.92
+0
+Distance: 95.80
+0
+Distance: 90.95
+0
+Distance: 91.92
+0
+Distance: 93.86
+0
+Distance: 91.92
+0
+Distance: 89.98
+0
+Distance: 95.80
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 89.01
+0
+Distance: 91.92
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 89.98
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 94.83
+0
+Distance: 90.95
+0
+Distance: 91.92
+0
+Distance: 90.95
+0
+Distance: 89.01
+0
+Distance: 86.10
+0
+Distance: 89.98
+0
+Distance: 88.04
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 90.95
+0
+Distance: 85.13
+0
+Distance: 85.13
+0
+Distance: 89.98
+0
+Distance: 85.13
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 83.19
+0
+Distance: 82.22
+0
+Distance: 82.22
+0
+Distance: 78.35
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 82.22
+0
+Distance: 105.50
+0
+Distance: 103.56
+0
+Distance: 106.47
+0
+Distance: 105.50
+0
+Distance: 104.53
+0
+Distance: 103.56
+0
+Distance: 104.53
+0
+Distance: 102.59
+0
+Distance: 105.50
+0
+Distance: 107.44
+0
+Distance: 106.47
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 102.59
+0
+Distance: 107.44
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 105.50
+0
+Distance: 100.65
+0
+Distance: 105.50
+0
+Distance: 105.50
+0
+Distance: 103.56
+0
+Distance: 104.53
+0
+Distance: 107.44
+0
+Distance: 104.53
+0
+Distance: 105.50
+0
+Distance: 106.47
+0
+Distance: 102.59
+0
+Distance: 102.59
+0
+Distance: 100.65
+0
+Distance: 104.53
+0
+Distance: 104.53
+0
+Distance: 106.47
+0
+Distance: 98.71
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 99.68
+0
+Distance: 106.47
+0
+Distance: 101.62
+0
+Distance: 97.74
+0
+Distance: 103.56
+0
+Distance: 104.53
+0
+Distance: 104.53
+0
+Distance: 104.53
+0
+Distance: 84.16
+0
+Distance: 80.28
+0
+Distance: 85.13
+0
+Distance: 86.10
+0
+Distance: 80.28
+0
+Distance: 81.25
+0
+Distance: 85.13
+0
+Distance: 84.16
+0
+Distance: 83.19
+0
+Distance: 87.07
+0
+Distance: 86.10
+0
+Distance: 85.13
+0
+Distance: 86.10
+0
+Distance: 84.16
+0
+Distance: 83.19
+0
+Distance: 86.10
+0
+Distance: 84.16
+0
+Distance: 84.16
+0
+Distance: 84.16
+0
+Distance: 84.16
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 86.10
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 84.16
+0
+Distance: 81.25
+0
+Distance: 84.16
+0
+Distance: 81.25
+0
+Distance: 83.19
+0
+Distance: 85.13
+0
+Distance: 80.28
+0
+Distance: 83.19
+0
+Distance: 83.19
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 84.16
+0
+Distance: 82.22
+0
+Distance: 85.13
+0
+Distance: 89.01
+0
+Distance: 90.95
+0
+Distance: 85.13
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 88.04
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 91.92
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 96.77
+0
+Distance: 93.86
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 92.89
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 91.92
+0
+Distance: 94.83
+0
+Distance: 90.95
+0
+Distance: 93.86
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 91.92
+0
+Distance: 96.77
+0
+Distance: 90.95
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 93.86
+0
+Distance: 95.80
+0
+Distance: 90.95
+0
+Distance: 91.92
+0
+Distance: 95.80
+0
+Distance: 90.95
+0
+Distance: 89.01
+0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 86.10
+0
+Stage 1: Approach to point 1
+Distance: 85.13
+0
+Distance: 90.95
+0
+Distance: 93.86
+0
+Distance: 89.01
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 87.07
+0
+Distance: 90.95
+0
+Distance: 92.89
+0
+Distance: 89.01
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+Distance: 91.92
+0
+Distance: 96.77
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 91.92
+0
+Distance: 90.95
+0
+Distance: 86.10
+0
+Distance: 87.07
+0
+Distance: 86.10
+0
+Distance: 89.01
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 98.71
+0
+Distance: 92.89
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 95.80
+0
+Distance: 92.89
+0
+Distance: 96.77
+0
+Distance: 92.89
+0
+Distance: 98.71
+0
+Distance: 93.86
+0
+Distance: 98.71
+0
+Distance: 97.74
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 93.86
+0
+Distance: 92.89
+0
+Distance: 97.74
+0
+Distance: 94.83
+0
+Distance: 90.95
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 92.89
+0
+Distance: 93.86
+0
+Distance: 86.10
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 94.83
+0
+Distance: 92.89
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 91.92
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 93.86
+0
+Distance: 97.74
+0
+Distance: 99.68
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 98.71
+0
+Distance: 96.77
+0
+Distance: 92.89
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 93.86
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 94.83
+0
+Distance: 92.89
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 93.86
+0
+Distance: 98.71
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 93.86
+0
+Distance: 97.74
+0
+Distance: 92.89
+0
+Distance: 97.74
+0
+Distance: 95.80
+0
+Distance: 91.92
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 96.77
+0
+Distance: 97.74
+0
+Distance: 95.80
+0
+Distance: 99.68
+0
+Distance: 95.80
+0
+Distance: 97.74
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 95.80
+0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 88.04
+0
+Stage 1: Approach to point 1
+Distance: 85.13
+0
+Distance: 92.89
+0
+Distance: 90.95
+0
+Distance: 91.92
+0
+Distance: 91.92
+0
+Distance: 91.92
+0
+Distance: 94.83
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 92.89
+0
+Distance: 90.95
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 87.07
+0
+Distance: 93.86
+0
+Distance: 91.92
+0
+Distance: 88.04
+0
+Distance: 90.95
+0
+Distance: 92.89
+0
+Distance: 88.04
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 89.98
+0
+Distance: 90.95
+0
+Distance: 93.86
+0
+Distance: 89.98
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 99.68
+0
+Distance: 94.83
+0
+Distance: 99.68
+0
+Distance: 96.77
+0
+Distance: 98.71
+0
+Distance: 102.59
+0
+Distance: 95.80
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 98.71
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 99.68
+0
+Distance: 95.80
+0
+Distance: 93.86
+0
+Distance: 98.71
+0
+Distance: 92.89
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 97.74
+0
+Distance: 97.74
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 91.92
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 99.68
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 77.38
+0
+Distance: 82.22
+0
+Distance: 78.35
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 75.44
+0
+Distance: 83.19
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 72.53
+0
+Distance: 80.28
+0
+Distance: 81.25
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 76.41
+0
+Distance: 80.28
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 82.22
+0
+Distance: 77.38
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 75.44
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 83.19
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 83.19
+0
+Distance: 84.16
+0
+Distance: 77.38
+0
+Distance: 82.22
+0
+Distance: 85.13
+0
+Distance: 82.22
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 76.41
+0
+Distance: 66.71
+0
+Distance: 72.53
+0
+Distance: 80.28
+0
+Distance: 81.25
+0
+Distance: 87.07
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 87.07
+0
+Distance: 85.13
+0
+Distance: 82.22
+0
+Distance: 77.38
+0
+Distance: 72.53
+0
+Distance: 68.65
+0
+Distance: 64.77
+0
+Distance: 65.74
+0
+Distance: 63.80
+0
+Distance: 64.77
+0
+Distance: 63.80
+0
+Distance: 63.80
+0
+Distance: 65.74
+0
+Distance: 67.68
+0
+Distance: 61.86
+0
+Distance: 64.77
+0
+Distance: 64.77
+0
+Distance: 69.62
+0
+Distance: 65.74
+0
+Distance: 64.77
+0
+Distance: 65.74
+0
+Distance: 60.89
+0
+Distance: 62.83
+0
+Distance: 65.74
+0
+Distance: 76.41
+0
+Distance: 95.80
+0
+Distance: 93.86
+0
+Distance: 98.71
+0
+Distance: 97.74
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 99.68
+0
+Distance: 103.56
+0
+Distance: 103.56
+0
+Distance: 105.50
+0
+Distance: 106.47
+0
+Distance: 101.62
+0
+Distance: 99.68
+0
+Distance: 106.47
+0
+Distance: 99.68
+0
+Distance: 108.41
+0
+Distance: 102.59
+0
+Distance: 100.65
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 101.62
+0
+Distance: 103.56
+0
+Distance: 98.71
+0
+Distance: 101.62
+0
+Distance: 100.65
+0
+Distance: 102.59
+0
+Distance: 99.68
+0
+Distance: 99.68
+0
+Distance: 98.71
+0
+Distance: 101.62
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 97.74
+0
+Distance: 101.62
+0
+Distance: 105.50
+0
+Distance: 100.65
+0
+Distance: 99.68
+0
+Distance: 101.62
+0
+Distance: 101.62
+0
+Distance: 103.56
+0
+Distance: 99.68
+0
+Distance: 104.53
+0
+Distance: 100.65
+0
+Distance: 97.74
+0
+Distance: 102.59
+0
+Distance: 94.83
+0
+Distance: 103.56
+0
+Distance: 97.74
+0
+Distance: 102.59
+0
+Distance: 102.59
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 102.59
+0
+Distance: 104.53
+0
+Distance: 101.62
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 101.62
+0
+Distance: 103.56
+0
+Distance: 101.62
+0
+Distance: 99.68
+0
+Distance: 100.65
+0
+Distance: 101.62
+0
+Distance: 103.56
+0
+Distance: 104.53
+0
+Distance: 100.65
+0
+Distance: 104.53
+0
+Distance: 100.65
+0
+Distance: 103.56
+0
+Distance: 106.47
+0
+Distance: 103.56
+0
+Distance: 100.65
+0
+Distance: 103.56
+0
+Distance: 101.62
+0
+Distance: 107.44
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 101.62
+0
+Distance: 102.59
+0
+Distance: 102.59
+0
+Distance: 106.47
+0
+Distance: 104.53
+0
+Distance: 104.53
+0
+Distance: 106.47
+0
+Distance: 104.53
+0
+Distance: 104.53
+0
+Distance: 106.47
+0
+Distance: 108.41
+0
+Distance: 111.32
+0
+Distance: 106.47
+0
+Distance: 105.50
+0
+Distance: 105.50
+0
+Distance: 105.50
+0
+Distance: 103.56
+0
+Distance: 106.47
+0
+Distance: 102.59
+0
+Distance: 109.38
+0
+Distance: 105.50
+0
+Distance: 99.68
+0
+Distance: 100.65
+0
+Distance: 101.62
+0
+Distance: 102.59
+0
+Distance: 103.56
+0
+Distance: 100.65
+0
+Distance: 102.59
+0
+Distance: 98.71
+0
+Distance: 100.65
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 100.65
+0
+Distance: 100.65
+0
+Distance: 98.71
+0
+Distance: 97.74
+0
+Distance: 103.56
+0
+Distance: 100.65
+0
+Distance: 103.56
+0
+Distance: 102.59
+0
+Distance: 101.62
+0
+Distance: 103.56
+0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 9.50
+0
+Distance: 10.47
+1
+Distance: 8.53
+2
+Distance: 11.44
+3
+Distance: 11.44
+4
+Distance: 13.38
+5
+Distance: 9.50
+6
+Distance: 11.44
+7
+Distance: 7.56
+8
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 71.56
+0
+Stage 1: Approach to point 1
+Distance: 86.10
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 89.01
+0
+Distance: 91.92
+0
+Distance: 89.98
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 90.95
+0
+Distance: 89.01
+0
+Distance: 90.95
+0
+Distance: 86.10
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 92.89
+0
+Distance: 93.86
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 92.89
+0
+Distance: 94.83
+0
+Distance: 98.71
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+Distance: 97.74
+0
+Distance: 98.71
+0
+Distance: 99.68
+0
+Distance: 101.62
+0
+Distance: 94.83
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 99.68
+0
+Distance: 100.65
+0
+Distance: 98.71
+0
+Distance: 104.53
+0
+Distance: 105.50
+0
+Distance: 111.32
+0
+Distance: 113.25
+0
+Distance: 102.59
+0
+Distance: 97.74
+0
+Distance: 99.68
+0
+Distance: 98.71
+0
+Distance: 95.80
+0
+Distance: 99.68
+0
+Distance: 93.86
+0
+Distance: 96.77
+0
+Distance: 97.74
+0
+Distance: 81.25
+0
+Distance: 13.38
+0
+Distance: 22.10
+1
+Object close enough. Stopping slow grip.
+Distance: 11.44
+1
+Distance: 15.31
+2
+Object close enough. Stopping slow grip.
+Distance: 17.25
+2
+Object close enough. Stopping slow grip.
+Distance: 18.22
+2
+Object close enough. Stopping slow grip.
+Distance: 15.31
+2
+Object close enough. Stopping slow grip.
+Distance: 20.16
+2
+Object close enough. Stopping slow grip.
+Distance: 17.25
+2
+Object close enough. Stopping slow grip.
+Distance: 11.44
+2
+Distance: 16.28
+3
+Object close enough. Stopping slow grip.
+Distance: 14.35
+3
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 16.28
+4
+Object close enough. Stopping slow grip.
+Distance: 11.44
+4
+Distance: 7.56
+5
+Distance: 13.38
+6
+Distance: 17.25
+7
+Object close enough. Stopping slow grip.
+Distance: 12.41
+7
+Distance: 13.38
+8
+Distance: 16.28
+9
+Object close enough. Stopping slow grip.
+Distance: 16.28
+9
+Object close enough. Stopping slow grip.
+Distance: 13.38
+9
+Distance: 10.47
+10
+Distance: 13.38
+11
+Distance: 11.44
+12
+Distance: 14.35
+13
+Distance: 15.31
+14
+Object close enough. Stopping slow grip.
+Distance: 12.41
+14
+Distance: 13.38
+15
+Distance: 19.19
+16
+Object close enough. Stopping slow grip.
+Distance: 17.25
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 19.19
+16
+Object close enough. Stopping slow grip.
+Distance: 26.95
+16
+Object close enough. Stopping slow grip.
+Distance: 25.01
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 25.98
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 26.95
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 25.01
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 25.01
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 25.01
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 25.01
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 25.01
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 25.01
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 19.19
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 25.01
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 24.04
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 19.19
+16
+Object close enough. Stopping slow grip.
+Distance: 23.07
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+[ 15763][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 18.22
+16
+Object close enough. Stopping slow grip.
+Distance: 22.10
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 19.19
+16
+Object close enough. Stopping slow grip.
+Distance: 18.22
+16
+Object close enough. Stopping slow grip.
+Distance: 17.25
+16
+Object close enough. Stopping slow grip.
+Distance: 17.25
+16
+Object close enough. Stopping slow grip.
+Distance: 18.22
+16
+Object close enough. Stopping slow grip.
+Distance: 19.19
+16
+Object close enough. Stopping slow grip.
+Distance: 17.25
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 17.25
+16
+Object close enough. Stopping slow grip.
+Distance: 18.22
+16
+Object close enough. Stopping slow grip.
+Distance: 21.13
+16
+Object close enough. Stopping slow grip.
+Distance: 18.22
+16
+Object close enough. Stopping slow grip.
+Distance: 18.22
+16
+Object close enough. Stopping slow grip.
+Distance: 15.31
+16
+Object close enough. Stopping slow grip.
+Distance: 19.19
+16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+16
+Object close enough. Stopping slow grip.
+Distance: 16.28
+16
+Object close enough. Stopping slow grip.
+Distance: 15.31
+16
+Object close enough. Stopping slow grip.
+Distance: 16.28
+16
+Object close enough. Stopping slow grip.
+Distance: 15.31
+16
+Object close enough. Stopping slow grip.
+Distance: 16.28
+16
+Object close enough. Stopping slow grip.
+Distance: 16.28
+16
+Object close enough. Stopping slow grip.
+Distance: 14.35
+16
+Distance: 18.22
+17
+Object close enough. Stopping slow grip.
+Distance: 17.25
+17
+Object close enough. Stopping slow grip.
+Distance: 14.35
+17
+Distance: 14.35
+18
+Distance: 13.38
+19
+Distance: 18.22
+20
+Object close enough. Stopping slow grip.
+Distance: 13.38
+20
+Distance: 11.44
+21
+Distance: 13.38
+22
+Distance: 14.35
+23
+Distance: 12.41
+24
+Distance: 15.31
+25
+Object close enough. Stopping slow grip.
+Distance: 16.28
+25
+Object close enough. Stopping slow grip.
+Distance: 15.31
+25
+Object close enough. Stopping slow grip.
+Distance: 13.38
+25
+Distance: 15.31
+26
+Object close enough. Stopping slow grip.
+Distance: 13.38
+26
+Distance: 15.31
+27
+Object close enough. Stopping slow grip.
+Distance: 13.38
+27
+Distance: 13.38
+28
+Distance: 14.35
+29
+Distance: 11.44
+30
+Grip
+Stage 3: Move to target 1
+Stage 4: Release object
+1
+Distance: 77.38
+0
+Stage 1: Approach to point 2
+Distance: 78.35
+0
+Distance: 83.19
+0
+Distance: 82.22
+0
+Distance: 82.22
+0
+Distance: 82.22
+0
+Distance: 84.16
+0
+Distance: 82.22
+0
+Distance: 78.35
+0
+Distance: 83.19
+0
+Distance: 81.25
+0
+Distance: 82.22
+0
+Distance: 81.25
+0
+Distance: 84.16
+0
+Distance: 81.25
+0
+Distance: 86.10
+0
+Distance: 79.32
+0
+Distance: 82.22
+0
+Distance: 84.16
+0
+Distance: 83.19
+0
+Distance: 80.28
+0
+Distance: 81.25
+0
+Distance: 77.38
+0
+Distance: 84.16
+0
+Distance: 82.22
+0
+Distance: 85.13
+0
+Distance: 82.22
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 82.22
+0
+Distance: 84.16
+0
+Distance: 84.16
+0
+Distance: 86.10
+0
+Distance: 83.19
+0
+Distance: 81.25
+0
+Distance: 83.19
+0
+Distance: 81.25
+0
+Distance: 84.16
+0
+Distance: 82.22
+0
+Distance: 83.19
+0
+Distance: 83.19
+0
+Distance: 86.10
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 77.38
+0
+Distance: 79.32
+0
+Distance: 83.19
+0
+Distance: 87.07
+0
+Distance: 79.32
+0
+Distance: 82.22
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 75.44
+0
+Distance: 77.38
+0
+Distance: 82.22
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 75.44
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 74.47
+0
+Distance: 80.28
+0
+Distance: 82.22
+0
+Distance: 77.38
+0
+Distance: 73.50
+0
+Distance: 76.41
+0
+Distance: 76.41
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 82.22
+0
+Distance: 83.19
+0
+Distance: 85.13
+0
+Distance: 81.25
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 84.16
+0
+Distance: 86.10
+0
+Distance: 85.13
+0
+Distance: 84.16
+0
+Distance: 86.10
+0
+Distance: 85.13
+0
+Distance: 83.19
+0
+Distance: 89.98
+0
+Distance: 89.01
+0
+Distance: 86.10
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 89.01
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 92.89
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 87.07
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 87.07
+0
+Distance: 89.98
+0
+Distance: 92.89
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 91.92
+0
+Distance: 89.01
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 92.89
+0
+Distance: 89.98
+0
+Distance: 88.04
+0
+Distance: 87.07
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 93.86
+0
+Distance: 89.01
+0
+Distance: 91.92
+0
+Distance: 87.07
+0
+Distance: 94.83
+0
+Distance: 91.92
+0
+Distance: 92.89
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 93.86
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 96.77
+0
+Distance: 89.98
+0
+Distance: 98.71
+0
+Distance: 96.77
+0
+Distance: 95.80
+0
+Distance: 96.77
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 96.77
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+Distance: 96.77
+0
+Distance: 93.86
+0
+Distance: 91.92
+0
+Distance: 93.86
+0
+Distance: 93.86
+0
+Distance: 94.83
+0
+Distance: 95.80
+0
+Distance: 93.86
+0
+Distance: 92.89
+0
+Distance: 97.74
+0
+Distance: 94.83
+0
+Distance: 93.86
+0
+Distance: 90.95
+0
+Distance: 99.68
+0
+Distance: 97.74
+0
+Distance: 90.95
+0
+Distance: 96.77
+0
+Distance: 97.74
+0
+Distance: 93.86
+0
+Distance: 95.80
+0
+Distance: 95.80
+0
+Distance: 91.92
+0
+Distance: 96.77
+0
+Distance: 93.86
+0
+Distance: 97.74
+0
+Distance: 92.89
+0
+Distance: 94.83
+0
+Distance: 94.83
+0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 75.44
+0
+Stage 1: Approach to point 1
+Distance: 102.59
+0
+Distance: 100.65
+0
+Distance: 102.59
+0
+Distance: 102.59
+0
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 92.89
+0
+Stage 1: Approach to point 1
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 84.16
+0
+Distance: 82.22
+0
+Distance: 82.22
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 82.22
+0
+Distance: 81.25
+0
+Distance: 82.22
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 78.35
+0
+Distance: 78.35
+0
+Distance: 82.22
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 78.35
+0
+Distance: 74.47
+0
+Distance: 83.19
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 73.50
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 73.50
+0
+Distance: 76.41
+0
+Distance: 80.28
+0
+Distance: 82.22
+0
+Distance: 81.25
+0
+Distance: 75.44
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 79.32
+0
+Distance: 85.13
+0
+Distance: 84.16
+0
+Distance: 84.16
+0
+Distance: 86.10
+0
+Distance: 85.13
+0
+Distance: 83.19
+0
+Distance: 89.98
+0
+Distance: 88.04
+0
+Distance: 86.10
+0
+Distance: 90.95
+0
+Distance: 84.16
+0
+Distance: 88.04
+0
+Distance: 89.98
+0
+Distance: 89.01
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 90.95
+0
+Distance: 92.89
+0
+Distance: 86.10
+0
+Distance: 95.80
+0
+Distance: 92.89
+0
+Distance: 91.92
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 88.04
+0
+Distance: 86.10
+0
+Distance: 93.86
+0
+Distance: 87.07
+0
+Distance: 90.95
+0
+Distance: 89.01
+0
+Distance: 92.89
+0
+Distance: 88.04
+0
+Distance: 92.89
+0
+Distance: 89.01
+0
+Distance: 87.07
+0
+Distance: 89.01
+0
+Distance: 90.95
+0
+Distance: 89.98
+0
+Distance: 93.86
+0
+Distance: 91.92
+0
+Distance: 95.80
+0
+Distance: 94.83
+0
+Distance: 91.92
+0
+Distance: 89.01
+0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+Distance: 14.35
+0
+Distance: 15.31
+1
+Object close enough. Stopping slow grip.
+Distance: 18.22
+1
+Object close enough. Stopping slow grip.
+Distance: 12.41
+1
+Distance: 9.50
+2
+Distance: 5.62
+3
+Distance: 15.31
+4
+Object close enough. Stopping slow grip.
+Distance: 16.28
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 20.16
+4
+Object close enough. Stopping slow grip.
+Distance: 21.13
+4
+Object close enough. Stopping slow grip.
+Distance: 20.16
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 15.31
+4
+Object close enough. Stopping slow grip.
+Distance: 20.16
+4
+Object close enough. Stopping slow grip.
+Distance: 16.28
+4
+Object close enough. Stopping slow grip.
+Distance: 19.19
+4
+Object close enough. Stopping slow grip.
+Distance: 19.19
+4
+Object close enough. Stopping slow grip.
+Distance: 17.25
+4
+Object close enough. Stopping slow grip.
+Distance: 17.25
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 17.25
+4
+Object close enough. Stopping slow grip.
+Distance: 17.25
+4
+Object close enough. Stopping slow grip.
+Distance: 17.25
+4
+Object close enough. Stopping slow grip.
+Distance: 20.16
+4
+Object close enough. Stopping slow grip.
+Distance: 19.19
+4
+Object close enough. Stopping slow grip.
+Distance: 19.19
+4
+Object close enough. Stopping slow grip.
+Distance: 19.19
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 17.25
+4
+Object close enough. Stopping slow grip.
+Distance: 19.19
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 22.10
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 18.22
+4
+Object close enough. Stopping slow grip.
+Distance: 17.25
+4
+Object close enough. Stopping slow grip.
+Distance: 14.35
+4
+Distance: 16.28
+5
+Object close enough. Stopping slow grip.
+Distance: 17.25
+5
+Object close enough. Stopping slow grip.
+Distance: 17.25
+5
+Object close enough. Stopping slow grip.
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+Distance: 18.22
+5
+Object close enough. Stopping slow grip.
+Distance: 16.28
+5
+Object close enough. Stopping slow grip.
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+Distance: 15.31
+5
+Object close enough. Stopping slow grip.
+Distance: 19.19
+5
+Object close enough. Stopping slow grip.
+Distance: 16.28
+5
+Object close enough. Stopping slow grip.
+Distance: 14.35
+5
+Distance: 15.31
+6
+Object close enough. Stopping slow grip.
+Distance: 19.19
+6
+Object close enough. Stopping slow grip.
+Distance: 16.28
+6
+Object close enough. Stopping slow grip.
+Distance: 15.31
+6
+Object close enough. Stopping slow grip.
+Distance: 13.38
+6
+Distance: 14.35
+7
+Distance: 15.31
+8
+Object close enough. Stopping slow grip.
+Distance: 14.35
+8
+Distance: 18.22
+9
+Object close enough. Stopping slow grip.
+Distance: 15.31
+9
+Object close enough. Stopping slow grip.
+Distance: 13.38
+9
+Distance: 17.25
+10
+Object close enough. Stopping slow grip.
+Distance: 14.35
+10
+Distance: 17.25
+11
+Object close enough. Stopping slow grip.
+Distance: 13.38
+11
+Distance: 13.38
+12
+Distance: 12.41
+13
+Distance: 14.35
+14
+Distance: 17.25
+15
+Object close enough. Stopping slow grip.
+Distance: 12.41
+15
+Distance: 15.31
+16
+Object close enough. Stopping slow grip.
+Distance: 13.38
+16
+Distance: 12.41
+17
+Distance: 13.38
+18
+Distance: 15.31
+19
+Object close enough. Stopping slow grip.
+Distance: 13.38
+19
+Distance: 14.35
+20
+Distance: 11.44
+21
+Distance: 11.44
+22
+Distance: 10.47
+23
+Distance: 14.35
+24
+Distance: 13.38
+25
+Distance: 12.41
+26
+Distance: 11.44
+27
+Distance: 11.44
+28
+Distance: 13.38
+29
+Distance: 12.41
+30
+Grip
+Stage 3: Move to target 1
+Stage 4: Release object
+1
+Distance: 79.32
+0
+Stage 1: Approach to point 2
+Distance: 76.41
+0
+Distance: 75.44
+0
+Distance: 77.38
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 74.47
+0
+Distance: 77.38
+0
+Distance: 75.44
+0
+Distance: 76.41
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 79.32
+0
+Distance: 74.47
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 75.44
+0
+Distance: 76.41
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 82.22
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 82.22
+0
+Distance: 82.22
+0
+Distance: 79.32
+0
+Distance: 75.44
+0
+Distance: 77.38
+0
+Distance: 75.44
+0
+Distance: 79.32
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 78.35
+0
+Distance: 76.41
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 74.47
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 75.44
+0
+Distance: 78.35
+0
+Distance: 73.50
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 73.50
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 74.47
+0
+Distance: 79.32
+0
+Distance: 75.44
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 75.44
+0
+Distance: 73.50
+0
+Distance: 78.35
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 74.47
+0
+Distance: 74.47
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 71.56
+0
+Distance: 77.38
+0
+Distance: 72.53
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 82.22
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 75.44
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 75.44
+0
+Distance: 78.35
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 75.44
+0
+Distance: 74.47
+0
+Distance: 74.47
+0
+Distance: 75.44
+0
+Distance: 71.56
+0
+Distance: 74.47
+0
+Distance: 74.47
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 75.44
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 75.44
+0
+Distance: 75.44
+0
+Distance: 78.35
+0
+Distance: 78.35
+0
+Distance: 71.56
+0
+Distance: 74.47
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 80.28
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 82.22
+0
+Distance: 82.22
+0
+Distance: 83.19
+0
+Distance: 84.16
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 82.22
+0
+Distance: 81.25
+0
+Distance: 85.13
+0
+Distance: 82.22
+0
+Distance: 83.19
+0
+Distance: 82.22
+0
+Distance: 81.25
+0
+Distance: 87.07
+0
+Distance: 88.04
+0
+Distance: 88.04
+0
+Distance: 91.92
+0
+Distance: 89.01
+0
+Distance: 86.10
+0
+Distance: 88.04
+0
+Distance: 85.13
+0
+Distance: 89.01
+0
+Distance: 87.07
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 89.01
+0
+Distance: 87.07
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 88.04
+0
+Distance: 90.95
+0
+Distance: 88.04
+0
+Distance: 91.92
+0
+Distance: 88.04
+0
+Distance: 87.07
+0
+Distance: 87.07
+0
+Distance: 82.22
+0
+Distance: 85.13
+0
+Distance: 87.07
+0
+Distance: 87.07
+0
+Distance: 86.10
+0
+Distance: 85.13
+0
+Distance: 90.95
+0
+Distance: 85.13
+0
+Distance: 89.01
+0
+Distance: 89.01
+0
+Distance: 83.19
+0
+Distance: 88.04
+0
+Distance: 84.16
+0
+Distance: 82.22
+0
+Distance: 82.22
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 86.10
+0
+Distance: 81.25
+0
+Distance: 77.38
+0
+Distance: 80.28
+0
+Distance: 83.19
+0
+Distance: 89.01
+0
+Distance: 85.13
+0
+Distance: 84.16
+0
+Distance: 81.25
+0
+Distance: 88.04
+0
+Distance: 86.10
+0
+Distance: 89.98
+0
+Distance: 86.10
+0
+Distance: 88.04
+0
+Distance: 88.04
+0
+Distance: 87.07
+0
+Distance: 89.98
+0
+Distance: 89.98
+0
+Distance: 89.01
+0
+Distance: 89.98
+0
+Distance: 87.07
+0
+Distance: 93.86
+0
+Distance: 87.07
+0
+Distance: 86.10
+0
+Distance: 89.01
+0
+Distance: 86.10
+0
+Distance: 88.04
+0
+Distance: 85.13
+0
+Distance: 88.04
+0
+Distance: 84.16
+0
+Distance: 84.16
+0
+Distance: 85.13
+0
+Distance: 84.16
+0
+Distance: 84.16
+0
+Distance: 87.07
+0
+Distance: 81.25
+0
+Distance: 81.25
+0
+Distance: 85.13
+0
+Distance: 82.22
+0
+Distance: 85.13
+0
+Distance: 80.28
+0
+Distance: 80.28
+0
+Distance: 78.35
+0
+Distance: 83.19
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 78.35
+0
+Distance: 79.32
+0
+Distance: 80.28
+0
+Distance: 79.32
+0
+Distance: 83.19
+0
+Distance: 79.32
+0
+Distance: 81.25
+0
+Distance: 75.44
+0
+Distance: 75.44
+0
+Distance: 77.38
+0
+Distance: 78.35
+0
+Distance: 81.25
+0
+Distance: 80.28
+0
+Distance: 77.38
+0
+Distance: 77.38
+0
+Distance: 73.50
+0
+Distance: 74.47
+0
+Distance: 70.59
+0
+Distance: 74.47
+0
+Distance: 73.50
+0
+Distance: 76.41
+0
+Distance: 74.47
+0
+Distance: 75.44
+0
+Distance: 71.56
+0
+Distance: 75.44
+0
+Distance: 75.44
+0
+Distance: 73.50
+0
+Distance: 76.41
+0
+Distance: 73.50
+0
+Distance: 68.65
+0
+Distance: 73.50
+0
+Distance: 72.53
+0
+Distance: 73.50
+0
+Distance: 71.56
+0
+Distance: 71.56
+0
+Distance: 75.44
+0
+Distance: 76.41
+0
+Distance: 73.50
+0
+Distance: 77.38
+0
+Distance: 71.56
+0
+Distance: 76.41
+0
+Distance: 74.47
+0
+Distance: 74.47
+0
+Distance: 72.53
+0
+Distance: 77.38
+0
+Distance: 71.56
+0
+Distance: 74.47
+0
+Distance: 72.53
+0
+Distance: 75.44
+0
+Distance: 72.53
+0
+Distance: 73.50
+0
+Distance: 72.53
+0
+Distance: 74.47
+0
+Distance: 70.59
+0
+Distance: 71.56
+0
+Distance: 75.44
+0
+Distance: 75.44
+0
+Distance: 75.44
+0
+Distance: 73.50
+0
+Distance: 74.47
+0
+Distance: 72.53
+0
+Distance: 73.50
+0
+Distance: 69.62
+0
+Distance: 72.53
+0
+Distance: 69.62
+0
+Distance: 72.53
+0
+Distance: 69.62
+0
+Distance: 74.47
+0
+Distance: 74.47
+0
+Distance: 70.59
+0
+Distance: 71.56
+0
+Distance: 73.50
+0
+Distance: 74.47
+0
+Distance: 74.47
+0
+Distance: 72.53
+0
+Distance: 71.56
+0
+Distance: 71.56
+0
+Distance: 75.44
+0
+Distance: 71.56
+0
+Distance: 75.44
+0
+Distance: 76.41
+0
+Distance: 70.59
+0
+Distance: 71.56
+0
+Distance: 68.65
+0
+Distance: 70.59
+0
+Distance: 73.50
+0
+Distance: 71.56
+0
+Distance: 70.59
+0
+Distance: 75.44
+0
+Distance: 76.41
+0
+Distance: 72.53
+0
+Distance: 71.56
+0
+Distance: 73.50
+0
+Distance: 72.53
+0
+Distance: 74.47
+0
+Distance: 73.50
+0
+Distance: 71.56
+0
+Distance: 72.53
+0
+Distance: 69.62
+0
+Distance: 69.62
+0
+Distance: 72.53
+0
+Distance: 74.47
+0
+Distance: 71.56
+0
+Distance: 73.50
+0
+Distance: 75.44
+0
+Distance: 72.53
+0
+Distance: 69.62
+0
+Distance: 80.28
+0
+Distance: 76.41
+0
+Distance: 72.53
+0
+Distance: 72.53
+0
+Distance: 76.41
+0
+Distance: 72.53
+0
+Distance: 72.53
+0
+Distance: 72.53
+0
+Distance: 71.56
+0
+Distance: 69.62
+0
+Distance: 72.53
+0
+Distance: 72.53
+0
+Distance: 76.41
+0
+Distance: 70.59
+0
+Distance: 74.47
+0
+Distance: 74.47
+0
+Distance: 76.41
+0
+Distance: 73.50
+0
+Distance: 71.56
+0
+Distance: 71.56
+0
+Distance: 72.53
+0
+Distance: 72.53
+0
+Distance: 74.47
+0
+Distance: 75.44
+0
+Distance: 73.50
+0
+Distance: 71.56
+0
+Distance: 73.50
+0
+Distance: 71.56
+0
+Distance: 69.62
+0
+Distance: 71.56
+0
+Distance: 71.56
+0
+Distance: 72.53
+0
+Distance: 73.50
+0
+Distance: 72.53
+0
+Distance: 72.53
+0
+Distance: 76.41
+0
+Distance: 77.38
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 76.41
+0
+Distance: 79.32
+0
+Distance: 75.44
+0
+Distance: 76.41
+0
+Distance: 72.53
+0
+Distance: 71.56
+0
+Distance: 78.35
+0
+Distance: 72.53
+0
+Distance: 69.62
+0
+Distance: 68.65
+0
+Distance: 72.53
+0
+Distance: 69.62
+0
+Distance: 73.50
+0
+Distance: 72.53
+0
+Distance: 73.50
+0
+Distance: 76.41
+0
+Distance: 69.62
+0
+Distance: 71.56
+0
+Distance: 75.44
+0
+Distance: 70.59
+0
+Distance: 74.47
+0
+Distance: 74.47
+0
+Distance: 68.65
+0
+Distance: 72.53
+0
+Distance: 77.38
+0
+Distance: 71.56
+0
+Distance: 71.56
+0
+Distance: 74.47
+0
+Distance: 73.50
+0
+Distance: 75.44
+0
+Distance: 70.59
+0
+Distance: 73.50
+0
+Distance: 74.47
+0
+Distance: 70.59
+0
+Distance: 71.56
+0
+Distance: 73.50
+0
+Distance: 72.53
+0
+Distance: 73.50
+0
+Distance: 71.56
+0
+Distance: 75.44
+0
+Distance: 70.59
+0
+Distance: 73.50
+0
+Distance: 77.38
+0
+Distance: 72.53
+0
+Distance: 75.44
+0
+Distance: 74.47
+0
+Distance: 72.53
+0
+Distance: 74.47
+0
+Distance: 71.56
+0
+Distance: 74.47
+0
+Distance: 73.50
+0
+Distance: 76.41
+0
+Distance: 71.56
+0
+Distance: 73.50
+0
+Distance: 74.47
+0
+Distance: 74.47
+0
+Distance: 72.53
+0

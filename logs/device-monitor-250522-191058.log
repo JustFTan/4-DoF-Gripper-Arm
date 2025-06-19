@@ -1,0 +1,2891 @@
+
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+1 0 0 0
+Distance: 36.65
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 40.53
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 38.59
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 39.56
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 41.50
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 36.65
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 40.53
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 41.50
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 44.41
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 38.59
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 40.53
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 41.50
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 41.50
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 42.47
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 40.53
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 41.50
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 41.50
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 46.35
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+1 0 0 0
+Distance: 59.92
+0
+Stage 1: Approach to point 1
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 1
+1 0 0 0
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 98.71
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 89.01
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 94.83
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 84.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 86.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 93.86
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 89.98
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 90.95
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 81.25
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 84.16
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 85.13
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 88.04
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 86.10
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 85.13
+0
+Stage 1: Approach to point 1
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 87.07
+0
+Stage 1: Approach to point 1
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 31.80
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 28.89
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 30.83
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 27.92
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 29.86
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 26.95
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.98
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 25.01
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 23.07
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 21.13
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 24.04
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 22.10
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 18.22
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 20.16
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 19.19
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 13.38
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 16.28
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 17.25
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 13.38
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+0
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 11.44
+0
+1 0 0 0
+Distance: 12.41
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+1
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 10.47
+1
+1 0 0 0
+Distance: 16.28
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 15.31
+2
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 10.47
+2
+1 0 0 0
+Distance: 16.28
+3
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+3
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 11.44
+3
+1 0 0 0
+Distance: 14.35
+4
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 11.44
+4
+1 0 0 0
+Distance: 12.41
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 13.38
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 14.35
+5
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 9.50
+5
+1 0 0 0
+Distance: 8.53
+6
+1 0 0 0
+Distance: 13.38
+7
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 7.56
+7
+1 0 0 0
+Distance: 12.41
+8
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 10.47
+8
+1 0 0 0
+Distance: 10.47
+9
+1 0 0 0
+Distance: 9.50
+10
+1 0 0 0
+Distance: 11.44
+11
+1 0 0 0
+Distance: 14.35
+12
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+12
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+12
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 11.44
+12
+1 0 0 0
+Distance: 10.47
+13
+1 0 0 0
+Distance: 14.35
+14
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 12.41
+14
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 11.44
+14
+1 0 0 0
+Distance: 11.44
+15
+1 0 0 0
+Distance: 10.47
+16
+1 0 0 0
+Distance: 9.50
+17
+1 0 0 0
+Distance: 9.50
+18
+1 0 0 0
+Distance: 12.41
+19
+Object close enough. Stopping slow grip.
+1 0 0 0
+Distance: 9.50
+19
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 5.62
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 5.62
+20
+1 0 0 0
+Distance: 5.62
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 4.65
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 6.59
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 5.62
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 5.62
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 7.56
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 8.53
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 18.22
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 9.50
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 17.25
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 19.19
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 17.25
+20
+1 0 0 0
+Distance: 18.22
+20
+1 0 0 0
+Distance: 17.25
+20
+1 0 0 0
+Distance: 17.25
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 17.25
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 18.22
+20
+1 0 0 0
+Distance: 18.22
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 17.25
+20
+1 0 0 0
+Distance: 17.25
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 17.25
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 18.22
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 14.35
+20
+1 0 0 0
+Distance: 10.47
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 16.28
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 13.38
+20
+1 0 0 0
+Distance: 11.44
+20
+1 0 0 0
+Distance: 15.31
+20
+1 0 0 0
+Distance: 12.41
+20
+1 0 0 0
+Distance: 45.38
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 57.01
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 56.04
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 53.13
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 51.19
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 50.22
+20
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+1 0 0 0
+Distance: 53.13
+20
+1 0 0 0
+Distance: 51.19
+20
+1 0 0 0
+1 0 0 0
+Distance: 51.19
+20
+1 0 0 0
+1 0 0 0
+Distance: 54.10
+20
+1 0 0 0
+1 0 0 0
+Distance: 57.01
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 48.28
+20
+1 0 0 0
+1 0 0 0
+Distance: 51.19
+20
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+Distance: 51.19
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+Distance: 54.10
+20
+1 0 0 0
+Distance: 51.19
+20
+1 0 0 0
+1 0 0 0
+Distance: 53.13
+20
+1 0 0 0
+1 0 0 0
+1 0 0 0
+Distance: 50.22
+20
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+Distance: 55.07
+20
+1 0 0 0
+Distance: 54.10
+20
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+Distance: 53.13
+20
+1 0 0 0
+Distance: 53.13
+20
+1 0 0 0
+Distance: 54.10
+20
+1 0 0 0
+Distance: 53.13
+20
+1 0 0 0
+Distance: 50.22
+20
+1 0 0 0
+Distance: 55.07
+20
+1 0 0 0
+Distance: 54.10
+20
+1 0 0 0
+Distance: 52.16
+20
+1 0 0 0
+Distance: 53.13
+20
+1 0 0 0

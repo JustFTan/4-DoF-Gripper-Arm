@@ -1,0 +1,40 @@
+PI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+VL53L0X berhasil inisialisasi
+Memulai tes servo satu per satu...
+Servo 0 → MIN
+Servo 0 → MAX
+Kembali ke tengah
+Servo 1 → MIN
+Servo 1 → MAX
+Kembali ke tengah
+Servo 2 → MIN
+Servo 2 → MAX
+Kembali ke tengah
+Servo 3 → MIN
+Servo 3 → MAX
+Kembali ke tengah
+Servo 4 → MIN
+Servo 4 → MAX
+Kembali ke tengah
+Servo 5 → MIN
+Servo 5 → MAX
+Kembali ke tengah
+Tes servo selesai.
+
+Status IR: TIDAK TERDETEKSI
+Jarak: 3.68 mm
+Status IR: TIDAK TERDETEKSI
+Jarak: 1.74 mm
+Status IR: TIDAK TERDETEKSI
+Jarak: 4.65 mm
+Status IR: TIDAK TERDETEKSI
+Jarak: 5.62 mm
+Status IR: TIDAK TERDETEKSI
+Jarak: 6.59 mm

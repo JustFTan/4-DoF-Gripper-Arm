@@ -1,0 +1,467 @@
+x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Stage 1: Approach object 
+0Stage 2: Grip slowly
+0Distance: 24.04
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 21.13
+Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0Stage 4: Release object
+0Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0Stage 4: Release object
+0Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1Stage 1: Approach object 
+1ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Stage 1: Approach object 
+0Stage 2: Grip slowly
+0Distance: 28.89
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 33.74
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 29.86
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 29.86
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 30.83
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 29.86
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 27.92
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 27.92
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 28.89
+Object close enough. Stopping slow grip.
+Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0Stage 4: Release object
+0Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0Stage 4: Release object
+0Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0Stage 4: Release object
+0Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0Stage 4: Release object
+0Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0Stage 4: Release object
+0ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Stage 1: Approach object 
+0Stage 2: Grip slowly
+0Distance: 290.71
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 294.59
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 292.65
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 307.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 317.86
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 313.98
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 302.35
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 174.35
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 167.56
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 149.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 115.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 83.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 69.62
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 62.83
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 56.04
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 57.01
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 50.22
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 51.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 51.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 50.22
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 51.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 50.22
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 48.28
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 50.22
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 49.25
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 49.25
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 51.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 45.38
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 47.32
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 47.32
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 43.44
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 44.41
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 46.35
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 44.41
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 43.44
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 43.44
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 38.59
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 37.62
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 31.80
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 25.01
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 23.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 23.07
+Object close enough. Stopping slow grip.
+Stage 3: Move to target
+0Stage 4: Release object
+0

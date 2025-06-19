@@ -1,0 +1,224 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 27.92
+Distance: 25.98
+Distance: 27.92
+Distance: 28.89
+Distance: 29.86
+Object close enough. Stopping slow grip.
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 484.65
+Distance: 489.50
+Distance: 488.53
+Distance: 489.50
+Distance: 488.53
+Distance: 482.71
+Distance: 482.71
+Distance: 498.23
+Distance: 493.38
+Distance: 482.71
+Distance: 480.77
+Distance: 482.71
+Distance: 484.65
+Distance: 489.50
+Distance: 485.62
+Distance: 484.65
+Distance: 482.71
+Distance: 488.53
+Distance: 482.71
+Distance: 483.68
+Distance: 486.59
+Distance: 486.59
+Distance: 484.65
+Distance: 485.62
+Distance: 486.59
+Distance: 482.71
+Distance: 483.68
+Distance: 481.74
+Distance: 483.68
+Distance: 484.65
+Distance: 492.41
+Distance: 489.50
+Distance: 482.71
+Distance: 485.62
+Distance: 486.59
+Distance: 486.59
+Distance: 478.83
+Distance: 488.53
+Distance: 484.65
+Distance: 481.74
+Distance: 490.47
+Distance: 476.89
+Distance: 482.71
+Distance: 486.59
+Distance: 486.59
+Distance: 483.68
+Distance: 492.41
+Distance: 490.47
+Distance: 485.62
+Distance: 491.44
+Distance: 485.62
+Distance: 479.80
+Distance: 487.56
+Distance: 488.53
+Distance: 484.65
+Distance: 485.62
+Distance: 474.95
+Distance: 481.74
+Distance: 482.71
+Distance: 487.56
+Distance: 483.68
+Distance: 483.68
+Distance: 487.56
+Distance: 488.53
+Distance: 481.74
+Distance: 483.68
+Distance: 482.71
+Distance: 478.83
+Distance: 484.65
+Distance: 485.62
+Distance: 491.44
+Distance: 482.71
+Distance: 492.41
+Distance: 486.59
+Distance: 479.80
+Distance: 483.68
+Distance: 488.53
+Distance: 487.56
+Distance: 489.50
+Distance: 490.47
+Distance: 484.65
+Distance: 490.47
+Distance: 481.74
+Distance: 489.50
+Distance: 482.71
+Distance: 492.41
+Distance: 481.74
+Distance: 487.56
+Distance: 485.62
+Distance: 484.65
+Distance: 491.44
+Distance: 490.47
+Distance: 486.59
+Distance: 489.50
+Distance: 487.56
+Distance: 482.71
+Distance: 481.74
+Distance: 482.71
+Distance: 480.77
+Distance: 487.56
+Distance: 490.47
+Distance: 485.62
+Distance: 486.59
+Distance: 490.47
+Distance: 487.56
+Distance: 488.53
+Distance: 487.56
+Distance: 489.50
+Distance: 479.80
+Distance: 487.56
+Distance: 480.77
+Distance: 479.80
+Distance: 481.74
+Distance: 481.74
+Distance: 487.56
+Distance: 491.44
+Distance: 484.65
+Distance: 480.77
+Distance: 480.77
+Distance: 488.53
+Distance: 487.56
+Distance: 477.86
+Distance: 490.47
+Distance: 486.59
+Distance: 487.56
+Distance: 484.65
+Distance: 483.68
+Distance: 487.56
+Distance: 483.68
+Distance: 492.41
+Distance: 488.53
+Distance: 488.53
+Distance: 488.53
+Distance: 487.56
+Distance: 482.71
+Distance: 488.53
+Distance: 482.71
+Distance: 491.44
+Distance: 482.71
+Distance: 486.59
+Distance: 489.50
+Distance: 490.47
+Distance: 483.68
+Distance: 487.56
+Distance: 480.77
+Distance: 483.68
+Distance: 483.68
+Distance: 487.56
+Distance: 486.59
+Distance: 481.74
+Distance: 485.62
+Distance: 487.56
+Distance: 479.80
+Distance: 489.50
+Distance: 485.62
+Distance: 481.74
+Distance: 477.86
+Distance: 484.65
+Distance: 487.56
+Distance: 487.56
+Distance: 488.53
+Distance: 488.53
+Distance: 485.62
+Distance: 483.68
+Distance: 483.68
+Distance: 456.53
+Distance: 441.98
+Distance: 571.92
+Distance: 670.83
+Distance: -34.14
+Distance: 7908.67
+Distance: 7908.67
+Distance: 65.74
+Distance: 121.98
+Distance: 413.86
+Distance: 236.41
+Distance: 152.04
+Distance: 124.89
+Distance: 119.07
+Distance: 107.44
+Distance: 111.32
+Distance: 110.35
+Distance: 106.47
+Distance: 132.65
+Distance: 615.56
+Distance: 552.53
+Distance: 529.26
+Object close enough. Stopping slow grip.
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4

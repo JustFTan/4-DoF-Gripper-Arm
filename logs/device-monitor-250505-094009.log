@@ -1,0 +1,3057 @@
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Inisialisasi PCA9685...
+Reading a measurement... Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400e541b  PS      : 0x00060830  A0      : 0x800e57db  A1      : 0x3ffb20f0  
+A2      : 0x00000000  A3      : 0x00000000  A4      : 0x00000000  A5      : 0x4177d784  
+A6      : 0x00000001  A7      : 0x3ffbdd20  A8      : 0x800d1a72  A9      : 0x3ffb2200  
+A10     : 0x3ffc1e5c  A11     : 0x3ffb2254  A12     : 0x000000a0  A13     : 0x42f32400  
+A14     : 0x00000000  A15     : 0x00000405  SAR     : 0x0000001d  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000040  LBEG    : 0x4008684d  LEND    : 0x4008685d  LCOUNT  : 0xfffffff9  
+
+
+Backtrace: 0x400e5418:0x3ffb20f0 0x400e57d8:0x3ffb2120 0x400d276d:0x3ffb2140 0x400d27fd:0x3ffb2160 0x400d2716:0x3ffb2190 0x400d1d7b:0x3ffb21b0 0x400d1e77:0x3ffb21e0 0x400d1ef4:0x3ffb2200 0x400d1a6f:0x3ffb2220 0x400d171d:0x3ffb2250 0x400d475d:0x3ffb2290
+
+
+
+
+ELF file SHA256: 93b55d753f69fddb
+

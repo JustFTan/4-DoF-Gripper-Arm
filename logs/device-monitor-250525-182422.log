@@ -1,0 +1,33 @@
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+[  1087][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  2095][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  3102][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  4109][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  5116][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  6123][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  7130][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  8137][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[  9144][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 10151][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 11158][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 12165][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 13172][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 14179][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 15186][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 16193][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 17200][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 18207][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 19214][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 20221][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 21228][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 22235][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 23242][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 24249][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263
+[ 25256][E][Wire.cpp:513] requestFrom(): i2cRead returned Error 263

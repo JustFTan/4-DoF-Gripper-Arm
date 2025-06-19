@@ -1,0 +1,1472 @@
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 41.50
+Distance: 40.53
+Distance: 41.50
+Distance: 42.47
+Distance: 39.56
+Distance: 45.38
+Stage 1: Approach to point 1
+Distance: 49.25
+Stage 1: Approach to point 1
+Distance: 57.98
+Stage 1: Approach to point 1
+Distance: 43.44
+Distance: 61.86
+Stage 1: Approach to point 1
+Distance: 44.41
+Distance: 44.41
+Distance: 47.32
+Stage 1: Approach to point 1
+Distance: 45.38
+Stage 1: Approach to point 1
+Distance: 47.32
+Stage 1: Approach to point 1
+Distance: 50.22
+Stage 1: Approach to point 1
+Distance: 51.19
+Stage 1: Approach to point 1
+Distance: 52.16
+Stage 1: Approach to point 1
+Distance: 51.19
+Stage 1: Approach to point 1
+Distance: 47.32
+Stage 1: Approach to point 1
+Distance: 47.32
+Stage 1: Approach to point 1
+Distance: 46.35
+Stage 1: Approach to point 1
+Distance: 49.25
+Stage 1: Approach to point 1
+Distance: 46.35
+Stage 1: Approach to point 1
+Distance: 46.35
+Stage 1: Approach to point 1
+Distance: 48.28
+Stage 1: Approach to point 1
+Distance: 49.25
+Stage 1: Approach to point 1
+Distance: 46.35
+Stage 1: Approach to point 1
+Distance: 49.25
+Stage 1: Approach to point 1
+Distance: 51.19
+Stage 1: Approach to point 1
+Distance: 49.25
+Stage 1: Approach to point 1
+Distance: 50.22
+Stage 1: Approach to point 1
+Distance: 46.35
+Stage 1: Approach to point 1
+Distance: 44.41
+Distance: 39.56
+Distance: 39.56
+Distance: 33.74
+Distance: 31.80
+Distance: 29.86
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 25.01
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 25.01
+Object close enough. Stopping slow grip.
+Distance: 33.74
+Distance: 46.35
+Stage 1: Approach to point 1
+Distance: 48.28
+Stage 1: Approach to point 1
+Distance: 48.28
+Stage 1: Approach to point 1
+Distance: 23.07
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 6.59
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 6.59
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 5.62
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 6.59
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 6.59
+Object close enough. Stopping slow grip.
+Distance: 6.59
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 6.59
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 6.59
+Object close enough. Stopping slow grip.
+Distance: 7.56
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 12.41
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 9.50
+Object close enough. Stopping slow grip.
+Distance: 8.53
+Object close enough. Stopping slow grip.
+Distance: 10.47
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 21.13
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 20.16
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 13.38
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 20.16
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 22.10
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 14.35
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 20.16
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 20.16
+Object close enough. Stopping slow grip.
+Distance: 20.16
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 17.25
+Object close enough. Stopping slow grip.
+Distance: 18.22
+Object close enough. Stopping slow grip.
+Distance: 16.28
+Object close enough. Stopping slow grip.
+Distance: 15.31
+Object close enough. Stopping slow grip.
+Distance: 19.19
+Distance: 20.16
+Distance: 16.28
+Distance: 19.19
+Distance: 19.19
+Distance: 17.25
+Distance: 17.25
+Distance: 15.31
+Distance: 18.22
+Distance: 17.25
+Distance: 15.31
+Distance: 13.38
+Distance: 15.31
+Distance: 17.25
+Distance: 16.28
+Distance: 17.25
+Distance: 13.38
+Distance: 17.25
+Distance: 18.22
+Distance: 16.28
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 15.31
+Distance: 18.22
+Distance: 17.25
+Distance: 19.19
+Distance: 18.22
+Distance: 16.28
+Distance: 17.25
+Distance: 14.35
+Distance: 17.25
+Distance: 18.22
+Distance: 14.35
+Distance: 16.28
+Distance: 16.28
+Distance: 14.35
+Distance: 18.22
+Distance: 17.25
+Distance: 19.19
+Distance: 17.25
+Distance: 15.31
+Distance: 17.25
+Distance: 15.31
+Distance: 15.31
+Distance: 16.28
+Distance: 16.28
+Distance: 17.25
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 16.28
+Distance: 14.35
+Distance: 16.28
+Distance: 18.22
+Distance: 19.19
+Distance: 18.22
+Distance: 15.31
+Distance: 15.31
+Distance: 19.19
+Distance: 15.31
+Distance: 18.22
+Distance: 20.16
+Distance: 18.22
+Distance: 18.22
+Distance: 20.16
+Distance: 19.19
+Distance: 16.28
+Distance: 19.19
+Distance: 20.16
+Distance: 17.25
+Distance: 20.16
+Distance: 15.31
+Distance: 19.19
+Distance: 17.25
+Distance: 15.31
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 15.31
+Distance: 15.31
+Distance: 17.25
+Distance: 20.16
+Distance: 20.16
+Distance: 19.19
+Distance: 18.22
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 19.19
+Distance: 16.28
+Distance: 16.28
+Distance: 15.31
+Distance: 18.22
+Distance: 15.31
+Distance: 16.28
+Distance: 17.25
+Distance: 20.16
+Distance: 20.16
+Distance: 19.19
+Distance: 20.16
+Distance: 22.10
+Distance: 14.35
+Distance: 15.31
+Distance: 15.31
+Distance: 20.16
+Distance: 18.22
+Distance: 19.19
+Distance: 15.31
+Distance: 20.16
+Distance: 18.22
+Distance: 17.25
+Distance: 20.16
+Distance: 20.16
+Distance: 17.25
+Distance: 20.16
+Distance: 14.35
+Distance: 15.31
+Distance: 16.28
+Distance: 19.19
+Distance: 18.22
+Distance: 17.25
+Distance: 18.22
+Distance: 18.22
+Distance: 18.22
+Distance: 17.25
+Distance: 15.31
+Distance: 18.22
+Distance: 18.22
+Distance: 20.16
+Distance: 17.25
+Distance: 21.13
+Distance: 17.25
+Distance: 16.28
+Distance: 19.19
+Distance: 19.19
+Distance: 15.31
+Distance: 18.22
+Distance: 23.07
+Distance: 14.35
+Distance: 19.19
+Distance: 18.22
+Distance: 17.25
+Distance: 15.31
+Distance: 17.25
+Distance: 15.31
+Distance: 18.22
+Distance: 16.28
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 18.22
+Distance: 18.22
+Distance: 21.13
+Distance: 16.28
+Distance: 15.31
+Distance: 16.28
+Distance: 18.22
+Distance: 17.25
+Distance: 17.25
+Distance: 13.38
+Distance: 19.19
+Distance: 19.19
+Distance: 18.22
+Distance: 18.22
+Distance: 19.19
+Distance: 19.19
+Distance: 22.10
+Distance: 15.31
+Distance: 20.16
+Distance: 20.16
+Distance: 19.19
+Distance: 17.25
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 19.19
+Distance: 19.19
+Distance: 18.22
+Distance: 18.22
+Distance: 17.25
+Distance: 18.22
+Distance: 14.35
+Distance: 18.22
+Distance: 18.22
+Distance: 19.19
+Distance: 19.19
+Distance: 18.22
+Distance: 19.19
+Distance: 17.25
+Distance: 17.25
+Distance: 16.28
+Distance: 18.22
+Distance: 14.35
+Distance: 17.25
+Distance: 15.31
+Distance: 12.41
+Distance: 15.31
+Distance: 16.28
+Distance: 13.38
+Distance: 17.25
+Distance: 15.31
+Distance: 20.16
+Distance: 16.28
+Distance: 17.25
+Distance: 16.28
+Distance: 14.35
+Distance: 18.22
+Distance: 16.28
+Distance: 19.19
+Distance: 15.31
+Distance: 16.28
+Distance: 17.25
+Distance: 14.35
+Distance: 18.22
+Distance: 16.28
+Distance: 15.31
+Distance: 16.28
+Distance: 14.35
+Distance: 14.35
+Distance: 17.25
+Distance: 14.35
+Distance: 12.41
+Distance: 19.19
+Distance: 18.22
+Distance: 18.22
+Distance: 15.31
+Distance: 16.28
+Distance: 18.22
+Distance: 13.38
+Distance: 17.25
+Distance: 18.22
+Distance: 15.31
+Distance: 16.28
+Distance: 19.19
+Distance: 19.19
+Distance: 16.28
+Distance: 16.28
+Distance: 15.31
+Distance: 20.16
+Distance: 12.41
+Distance: 17.25
+Distance: 15.31
+Distance: 17.25
+Distance: 15.31
+Distance: 15.31
+Distance: 16.28
+Distance: 18.22
+Distance: 16.28
+Distance: 14.35
+Distance: 15.31
+Distance: 18.22
+Distance: 19.19
+Distance: 19.19
+Distance: 18.22
+Distance: 15.31
+Distance: 20.16
+Distance: 17.25
+Distance: 16.28
+Distance: 19.19
+Distance: 17.25
+Distance: 18.22
+Distance: 16.28
+Distance: 15.31
+Distance: 16.28
+Distance: 16.28
+Distance: 16.28
+Distance: 19.19
+Distance: 19.19
+Distance: 19.19
+Distance: 17.25
+Distance: 20.16
+Distance: 16.28
+Distance: 17.25
+Distance: 20.16
+Distance: 18.22
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 20.16
+Distance: 18.22
+Distance: 16.28
+Distance: 18.22
+Distance: 19.19
+Distance: 16.28
+Distance: 13.38
+Distance: 20.16
+Distance: 14.35
+Distance: 15.31
+Distance: 16.28
+Distance: 16.28
+Distance: 15.31
+Distance: 11.44
+Distance: 17.25
+Distance: 16.28
+Distance: 20.16
+Distance: 18.22
+Distance: 15.31
+Distance: 19.19
+Distance: 18.22
+Distance: 16.28
+Distance: 12.41
+Distance: 15.31
+Distance: 17.25
+Distance: 20.16
+Distance: 19.19
+Distance: 19.19
+Distance: 20.16
+Distance: 20.16
+Distance: 16.28
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 19.19
+Distance: 20.16
+Distance: 18.22
+Distance: 19.19
+Distance: 20.16
+Distance: 19.19
+Distance: 20.16
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 17.25
+Distance: 15.31
+Distance: 14.35
+Distance: 15.31
+Distance: 17.25
+Distance: 21.13
+Distance: 18.22
+Distance: 20.16
+Distance: 21.13
+Distance: 18.22
+Distance: 21.13
+Distance: 19.19
+Distance: 16.28
+Distance: 18.22
+Distance: 14.35
+Distance: 16.28
+Distance: 14.35
+Distance: 18.22
+Distance: 17.25
+Distance: 16.28
+Distance: 16.28
+Distance: 18.22
+Distance: 19.19
+Distance: 19.19
+Distance: 17.25
+Distance: 18.22
+Distance: 15.31
+Distance: 16.28
+Distance: 19.19
+Distance: 20.16
+Distance: 15.31
+Distance: 17.25
+Distance: 16.28
+Distance: 17.25
+Distance: 20.16
+Distance: 18.22
+Distance: 18.22
+Distance: 18.22
+Distance: 16.28
+Distance: 19.19
+Distance: 19.19
+Distance: 19.19
+Distance: 16.28
+Distance: 19.19
+Distance: 21.13
+Distance: 15.31
+Distance: 19.19
+Distance: 17.25
+Distance: 22.10
+Distance: 20.16
+Distance: 16.28
+Distance: 19.19
+Distance: 16.28
+Distance: 15.31
+Distance: 19.19
+Distance: 19.19
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 16.28
+Distance: 18.22
+Distance: 16.28
+Distance: 18.22
+Distance: 16.28
+Distance: 17.25
+Distance: 18.22
+Distance: 16.28
+Distance: 15.31
+Distance: 14.35
+Distance: 12.41
+Distance: 12.41
+Distance: 14.35
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 16.28
+Distance: 16.28
+Distance: 19.19
+Distance: 20.16
+Distance: 15.31
+Distance: 17.25
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 12.41
+Distance: 16.28
+Distance: 17.25
+Distance: 17.25
+Distance: 21.13
+Distance: 17.25
+Distance: 18.22
+Distance: 19.19
+Distance: 21.13
+Distance: 19.19
+Distance: 20.16
+Distance: 19.19
+Distance: 17.25
+Distance: 18.22
+Distance: 19.19
+Distance: 18.22
+Distance: 18.22
+Distance: 18.22
+Distance: 19.19
+Distance: 20.16
+Distance: 16.28
+Distance: 20.16
+Distance: 24.04
+Distance: 21.13
+Distance: 20.16
+Distance: 19.19
+Distance: 21.13
+Distance: 20.16
+Distance: 18.22
+Distance: 21.13
+Distance: 19.19
+Distance: 17.25
+Distance: 19.19
+Distance: 20.16
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 19.19
+Distance: 18.22
+Distance: 15.31
+Distance: 18.22
+Distance: 18.22
+Distance: 19.19
+Distance: 20.16
+Distance: 18.22
+Distance: 19.19
+Distance: 19.19
+Distance: 20.16
+Distance: 19.19
+Distance: 17.25
+Distance: 19.19
+Distance: 20.16
+Distance: 19.19
+Distance: 18.22
+Distance: 22.10
+Distance: 21.13
+Distance: 24.04
+Distance: 19.19
+Distance: 22.10
+Distance: 21.13
+Distance: 17.25
+Distance: 20.16
+Distance: 18.22
+Distance: 16.28
+Distance: 18.22
+Distance: 19.19
+Distance: 15.31
+Distance: 15.31
+Distance: 13.38
+Distance: 19.19
+Distance: 17.25
+Distance: 16.28
+Distance: 14.35
+Distance: 12.41
+Distance: 14.35
+Distance: 13.38
+Distance: 13.38
+Distance: 15.31
+Distance: 14.35
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 16.28
+Distance: 18.22
+Distance: 18.22
+Distance: 15.31
+Distance: 21.13
+Distance: 20.16
+Distance: 19.19
+Distance: 14.35
+Distance: 19.19
+Distance: 14.35
+Distance: 15.31
+Distance: 14.35
+Distance: 15.31
+Distance: 14.35
+Distance: 13.38
+Distance: 14.35
+Distance: 14.35
+Distance: 15.31
+Distance: 16.28
+Distance: 17.25
+Distance: 17.25
+Distance: 17.25
+Distance: 16.28
+Distance: 19.19
+Distance: 15.31
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 15.31
+Distance: 17.25
+Distance: 13.38
+Distance: 16.28
+Distance: 13.38
+Distance: 15.31
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 19.19
+Distance: 18.22
+Distance: 17.25
+Distance: 19.19
+Distance: 17.25
+Distance: 14.35
+Distance: 14.35
+Distance: 16.28
+Distance: 14.35
+Distance: 20.16
+Distance: 17.25
+Distance: 16.28
+Distance: 18.22
+Distance: 18.22
+Distance: 17.25
+Distance: 16.28
+Distance: 15.31
+Distance: 16.28
+Distance: 14.35
+Distance: 16.28
+Distance: 14.35
+Distance: 18.22
+Distance: 18.22
+Distance: 20.16
+Distance: 19.19
+Distance: 20.16
+Distance: 18.22
+Distance: 20.16
+Distance: 20.16
+Distance: 20.16
+Distance: 21.13
+Distance: 19.19
+Distance: 20.16
+Distance: 18.22
+Distance: 20.16
+Distance: 17.25
+Distance: 18.22
+Distance: 18.22
+Distance: 17.25
+Distance: 17.25
+Distance: 14.35
+Distance: 16.28
+Distance: 14.35
+Distance: 15.31
+Distance: 13.38
+Distance: 10.47
+Distance: 13.38
+Distance: 14.35
+Distance: 15.31
+Distance: 13.38
+Distance: 13.38
+Distance: 16.28
+Distance: 15.31
+Distance: 16.28
+Distance: 17.25
+Distance: 15.31
+Distance: 18.22
+Distance: 19.19
+Distance: 20.16
+Distance: 17.25
+Distance: 17.25
+Distance: 19.19
+Distance: 15.31
+Distance: 18.22
+Distance: 16.28
+Distance: 18.22
+Distance: 17.25
+Distance: 20.16
+Distance: 17.25
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 18.22
+Distance: 16.28
+Distance: 15.31
+Distance: 17.25
+Distance: 16.28
+Distance: 15.31
+Distance: 16.28
+Distance: 16.28
+Distance: 12.41
+Distance: 15.31
+Distance: 17.25
+Distance: 17.25
+Distance: 13.38
+Distance: 14.35
+Distance: 19.19
+Distance: 14.35
+Distance: 18.22
+Distance: 14.35
+Distance: 17.25
+Distance: 16.28
+Distance: 17.25
+Distance: 17.25
+Distance: 15.31
+Distance: 13.38
+Distance: 18.22
+Distance: 14.35
+Distance: 18.22
+Distance: 14.35
+Distance: 13.38
+Distance: 14.35
+Distance: 14.35
+Distance: 13.38
+Distance: 18.22
+Distance: 18.22
+Distance: 17.25
+Distance: 15.31
+Distance: 17.25
+Distance: 19.19
+Distance: 17.25
+Distance: 18.22
+Distance: 20.16
+Distance: 17.25
+Distance: 18.22
+Distance: 19.19
+Distance: 14.35
+Distance: 19.19
+Distance: 16.28
+Distance: 20.16
+Distance: 18.22
+Distance: 17.25
+Distance: 15.31
+Distance: 20.16
+Distance: 14.35
+Distance: 17.25
+Distance: 21.13
+Distance: 18.22
+Distance: 19.19
+Distance: 19.19
+Distance: 22.10
+Distance: 21.13
+Distance: 18.22
+Distance: 17.25
+Distance: 17.25
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 14.35
+Distance: 17.25
+Distance: 16.28
+Distance: 19.19
+Distance: 16.28
+Distance: 15.31
+Distance: 17.25
+Distance: 16.28
+Distance: 19.19
+Distance: 16.28
+Distance: 18.22
+Distance: 16.28
+Distance: 17.25
+Distance: 20.16
+Distance: 19.19
+Distance: 20.16
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 18.22
+Distance: 20.16
+Distance: 18.22
+Distance: 16.28
+Distance: 20.16
+Distance: 18.22
+Distance: 17.25
+Distance: 17.25
+Distance: 16.28
+Distance: 17.25
+Distance: 17.25
+Distance: 15.31
+Distance: 16.28
+Distance: 16.28
+Distance: 15.31
+Distance: 13.38
+Distance: 16.28
+Distance: 16.28
+Distance: 13.38
+Distance: 14.35
+Distance: 13.38
+Distance: 14.35
+Distance: 13.38
+Distance: 16.28
+Distance: 16.28
+Distance: 14.35
+Distance: 17.25
+Distance: 16.28
+Distance: 21.13
+Distance: 18.22
+Distance: 21.13
+Distance: 19.19
+Distance: 19.19
+Distance: 17.25
+Distance: 18.22
+Distance: 18.22
+Distance: 16.28
+Distance: 19.19
+Distance: 17.25
+Distance: 15.31
+Distance: 22.10
+Distance: 17.25
+Distance: 19.19
+Distance: 16.28
+Distance: 18.22
+Distance: 18.22
+Distance: 18.22
+Distance: 17.25
+Distance: 20.16
+Distance: 17.25
+Distance: 15.31
+Distance: 18.22
+Distance: 18.22
+Distance: 18.22
+Distance: 16.28
+Distance: 18.22
+Distance: 20.16
+Distance: 18.22
+Distance: 15.31
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 18.22
+Distance: 14.35
+Distance: 20.16
+Distance: 18.22
+Distance: 13.38
+Distance: 16.28
+Distance: 17.25
+Distance: 14.35
+Distance: 18.22
+Distance: 15.31
+Distance: 16.28
+Distance: 16.28
+Distance: 17.25
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 13.38
+Distance: 16.28
+Distance: 14.35
+Distance: 17.25
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 15.31
+Distance: 18.22
+Distance: 16.28
+Distance: 19.19
+Distance: 17.25
+Distance: 16.28
+Distance: 16.28
+Distance: 19.19
+Distance: 15.31
+Distance: 16.28
+Distance: 16.28
+Distance: 19.19
+Distance: 19.19
+Distance: 17.25
+Distance: 21.13
+Distance: 18.22
+Distance: 19.19
+Distance: 17.25
+Distance: 20.16
+Distance: 18.22
+Distance: 20.16
+Distance: 16.28
+Distance: 19.19
+Distance: 19.19
+Distance: 18.22
+Distance: 18.22
+Distance: 17.25
+Distance: 21.13
+Distance: 17.25
+Distance: 17.25
+Distance: 17.25
+Distance: 20.16
+Distance: 17.25
+Distance: 18.22
+Distance: 18.22
+Distance: 17.25
+Distance: 16.28
+Distance: 17.25
+Distance: 15.31
+Distance: 16.28
+Distance: 16.28
+Distance: 16.28
+Distance: 20.16
+Distance: 16.28
+Distance: 18.22
+Distance: 19.19
+Distance: 16.28
+Distance: 17.25
+Distance: 17.25
+Distance: 16.28
+Distance: 16.28
+Distance: 17.25
+Distance: 18.22
+Distance: 17.25
+Distance: 16.28
+Distance: 20.16
+Distance: 19.19
+Distance: 20.16
+Distance: 20.16
+Distance: 17.25
+Distance: 19.19
+Distance: 18.22
+Distance: 20.16
+Distance: 20.16
+Distance: 20.16
+Distance: 18.22
+Distance: 21.13
+Distance: 22.10
+Distance: 16.28
+Distance: 18.22
+Distance: 18.22
+Distance: 21.13
+Distance: 17.25
+Distance: 19.19
+Distance: 19.19
+Distance: 19.19
+Distance: 20.16
+Distance: 17.25
+Distance: 20.16
+Distance: 16.28
+Distance: 18.22
+Distance: 20.16
+Distance: 19.19
+Distance: 18.22
+Distance: 13.38
+Distance: 20.16
+Distance: 16.28
+Distance: 15.31
+Distance: 16.28
+Distance: 16.28
+Distance: 17.25
+Distance: 16.28
+Distance: 16.28
+Distance: 16.28
+Distance: 17.25
+Distance: 15.31
+Distance: 16.28
+Distance: 19.19
+Distance: 16.28
+Distance: 18.22
+Distance: 15.31
+Distance: 16.28
+Distance: 19.19
+Distance: 13.38
+Distance: 14.35
+Distance: 18.22
+Distance: 19.19
+Distance: 16.28
+Distance: 18.22
+Distance: 19.19
+Distance: 20.16
+Distance: 19.19
+Distance: 18.22
+Distance: 20.16
+Distance: 21.13
+Distance: 18.22
+Distance: 17.25
+Distance: 19.19
+Distance: 19.19
+Distance: 18.22
+Distance: 19.19
+Distance: 17.25
+Distance: 21.13
+Distance: 19.19
+Distance: 18.22
+Distance: 14.35
+Distance: 15.31
+Distance: 15.31
+Distance: 20.16
+Distance: 14.35
+Distance: 13.38
+Distance: 14.35
+Distance: 14.35
+Distance: 16.28
+Distance: 15.31
+Distance: 17.25
+Distance: 17.25
+Distance: 16.28
+Distance: 19.19
+Distance: 18.22
+Distance: 17.25
+Distance: 17.25
+Distance: 18.22
+Distance: 18.22
+Distance: 18.22
+Distance: 16.28
+Distance: 19.19
+Distance: 18.22
+Distance: 18.22
+Distance: 18.22
+Distance: 17.25
+Distance: 17.25
+Distance: 19.19
+Distance: 18.22
+Distance: 19.19
+Distance: 18.22
+Distance: 17.25
+Distance: 17.25
+Distance: 16.28
+Distance: 18.22
+Distance: 16.28
+Distance: 16.28
+Distance: 15.31
+Distance: 14.35
+Distance: 16.28
+Distance: 14.35
+Distance: 16.28
+Distance: 13.38
+Distance: 12.41
+Distance: 12.41
+Distance: 15.31
+Distance: 17.25
+Distance: 16.28
+Distance: 16.28
+Distance: 14.35
+Distance: 13.38
+Distance: 12.41
+Distance: 16.28
+Distance: 13.38
+Distance: 15.31
+Distance: 15.31
+Distance: 17.25
+Distance: 19.19
+Distance: 13.38
+Distance: 16.28
+Distance: 21.13
+Distance: 17.25
+Distance: 21.13
+Distance: 20.16
+Distance: 19.19
+Distance: 20.16
+Distance: 18.22
+Distance: 21.13
+Distance: 20.16
+Distance: 20.16
+Distance: 21.13
+Distance: 17.25
+Distance: 18.22
+Distance: 20.16
+Distance: 17.25
+Distance: 21.13
+Distance: 19.19
+Distance: 20.16
+Distance: 19.19
+Distance: 15.31
+Distance: 20.16
+Distance: 19.19
+Distance: 19.19
+Distance: 18.22
+Distance: 21.13
+Distance: 20.16

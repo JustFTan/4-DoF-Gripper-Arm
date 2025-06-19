@@ -1,0 +1,52 @@
+
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 56.04
+Stage 1: Approach to point 1
+Distance: 51.19
+Stage 1: Approach to point 1
+Distance: 49.25
+Stage 1: Approach to point 1
+Distance: 47.32
+Stage 1: Approach to point 1
+Distance: 47.32
+Stage 1: Approach to point 1
+Distance: 50.22
+Stage 1: Approach to point 1
+Distance: 48.28
+Stage 1: Approach to point 1
+Distance: 45.38
+Stage 1: Approach to point 1
+Distance: 48.28
+Stage 1: Approach to point 1
+Distance: 47.32
+Stage 1: Approach to point 1
+Distance: 46.35
+Stage 1: Approach to point 1
+Distance: 47.32
+Stage 1: Approach to point 1
+Distance: 50.22
+Stage 1: Approach to point 1
+Distance: 24.04
+Object close enough. Stopping slow grip.
+Distance: 27.92
+Object close enough. Stopping slow grip.
+Distance: 29.86
+Object close enough. Stopping slow grip.
+Distance: 26.95
+Object close enough. Stopping slow grip.
+Distance: 26.95
+Object close enough. Stopping slow grip.
+Distance: 25.01
+Object close enough. Stopping slow grip.
+Distance: 11.44
+Stage 3: Move to target 1
+Stage 4: Release object
+1

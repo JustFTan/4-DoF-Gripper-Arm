@@ -1,0 +1,282 @@
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Stage 1: Approach object 
+0Stage 2: Grip slowly
+0Distance: 113.25
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 100.65
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 101.62
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 95.80
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 93.86
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 90.95
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 74.47
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 72.53
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 65.74
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 57.01
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 57.98
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 57.01
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 57.01
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 57.98
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 56.04
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 59.92
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 57.01
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 58.95
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 56.04
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 58.95
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 60.89
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 60.89
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 50.22
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 51.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 48.28
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 50.22
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 48.28
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 51.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 48.28
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 51.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 52.16
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 54.10
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 51.19
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 53.13
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 55.07
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Distance: 50.22
+Stage 1: Approach object 
+1Stage 2: Grip slowly
+0Guru Meditation Error: Core  1 panic'ed (Unhandled debug exception). 
+Debug exception reason: Stack canary watchpoint triggered (loopTask) 
+Core  1 register dump:
+PC      : 0x4008b3d7  PS      : 0x00060036  A0      : 0x80089f08  A1      : 0x3ffb0320  
+A2      : 0x3ffbf688  A3      : 0xb33fffff  A4      : 0x0000cdcd  A5      : 0x00060023  
+A6      : 0x00060023  A7      : 0x0000abab  A8      : 0xb33fffff  A9      : 0xffffffff  
+A10     : 0x3ffbf678  A11     : 0x00000001  A12     : 0x00060021  A13     : 0x00060023  
+A14     : 0x007bf688  A15     : 0x003fffff  SAR     : 0x0000000b  EXCCAUSE: 0x00000001  
+EXCVADDR: 0x00000000  LBEG    : 0x400863c4  LEND    : 0x400863da  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4008b3d4:0x3ffb0320 0x40089f05:0x3ffb0360 0x400887c0:0x3ffb0390 0x40088770:0xa5a5a5a5 |<-CORRUPTED
+
+
+
+
+ELF file SHA256: 77f64de0524fd0a1
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4

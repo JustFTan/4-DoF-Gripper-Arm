@@ -1,0 +1,2152 @@
+:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Objek terdeteksi.
+Distance: 77.38
+0
+Stage 1: Approach to point 1
+Objek terdeteksi.
+Distance: 73.50
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 73.50
+0
+Objek terdeteksi.
+Distance: 71.56
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 72.53
+0
+Objek terdeteksi.
+Distance: 71.56
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 73.50
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 73.50
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 73.50
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 71.56
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 72.53
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 103.56
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 102.59
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 102.59
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 91.92
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 91.92
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 91.92
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 91.92
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 91.92
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 93.86
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 91.92
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 91.92
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 74.47
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 76.41
+0
+Objek terdeteksi.
+Distance: 77.38
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 75.44
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 80.28
+0
+Objek terdeteksi.
+Distance: 79.32
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 78.35
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 81.25
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 91.92
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 82.22
+0
+Objek terdeteksi.
+Distance: 83.19
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 85.13
+0
+Objek terdeteksi.
+Distance: 86.10
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 84.16
+0
+Objek terdeteksi.
+Distance: 89.98
+0
+Objek terdeteksi.
+Distance: 87.07
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 90.95
+0
+Objek terdeteksi.
+Distance: 89.01
+0
+Objek terdeteksi.
+Distance: 88.04
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 91.92
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 92.89
+0
+Objek terdeteksi.
+Distance: 93.86
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 104.53
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 102.59
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 103.56
+0
+Objek terdeteksi.
+Distance: 103.56
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 102.59
+0
+Objek terdeteksi.
+Distance: 103.56
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 106.47
+0
+Objek terdeteksi.
+Distance: 102.59
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 104.53
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 103.56
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 103.56
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 94.83
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 103.56
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 102.59
+0
+Objek terdeteksi.
+Distance: 105.50
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 102.59
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 99.68
+0
+Objek terdeteksi.
+Distance: 101.62
+0
+Objek terdeteksi.
+Distance: 98.71
+0
+Objek terdeteksi.
+Distance: 95.80
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.
+Distance: 100.65
+0
+Objek terdeteksi.
+Distance: 97.74
+0
+Objek terdeteksi.
+Distance: 96.77
+0
+Objek terdeteksi.

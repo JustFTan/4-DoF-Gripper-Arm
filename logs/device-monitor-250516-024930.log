@@ -1,0 +1,70 @@
+46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Distance: 706.71
+Distance: 703.80
+Distance: 693.14
+Distance: 723.20
+Distance: 717.38
+Distance: 48.28
+Distance: 43.44
+Distance: 45.38
+Distance: 47.32
+Distance: 46.35
+Distance: 48.28
+Distance: 46.35
+Distance: 48.28
+Distance: 48.28
+Distance: 54.10
+Distance: 54.10
+Distance: 53.13
+Distance: 56.04
+Distance: 57.01
+Distance: 57.98
+Distance: 52.16
+Distance: 52.16
+Distance: 51.19
+Distance: 53.13
+Distance: 52.16
+Distance: 55.07
+Distance: 56.04
+Distance: 54.10
+Distance: 56.04
+Distance: 54.10
+Distance: 53.13
+Distance: 52.16
+Distance: 56.04
+Distance: 53.13
+Distance: 50.22
+Distance: 54.10
+Distance: 52.16
+Distance: 52.16
+Distance: 54.10
+Distance: 50.22
+Distance: 52.16
+Distance: 51.19
+Distance: 54.10
+Distance: 56.04
+Distance: 56.04
+Distance: 52.16
+Distance: 50.22
+Distance: 53.13
+Distance: 54.10
+Distance: 54.10
+Distance: 53.13
+Distance: 53.13
+Distance: 50.22
+Distance: 51.19
+Distance: 44.41
+Distance: 37.62
+Distance: 30.83
+Distance: 27.92
+Distance: 22.10
+Object close enough. Stopping slow grip.
