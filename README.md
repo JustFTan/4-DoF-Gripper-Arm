@@ -1,48 +1,48 @@
 # 4-DoF Gripper Arm
 
-Proyek ini adalah implementasi lengan robotik dengan 4 Degrees of Freedom (DoF) yang dilengkapi dengan gripper (penjepit) dan sensor jarak berbasis VL53L0X. Proyek ini dirancang untuk mengenali objek menggunakan sensor IR dan VL53L0X, kemudian secara otomatis mendekati, mengambil, dan memindahkan objek ke posisi yang telah ditentukan.
+This project is an implementation of a robotic arm with 4 Degrees of Freedom (DoF), equipped with a gripper and a VL53L0X distance sensor. The system is designed to detect objects using both IR and VL53L0X sensors, then automatically approach, grip, and move objects to predefined positions.
 
-## Fitur
+## Features
 
-- **4-DoF Arm:** Kontrol 4 servo pada base, joint, dan gripper.
-- **Gripper Otomatis:** Membuka dan menutup gripper secara otomatis berdasarkan deteksi objek.
-- **Sensor Jarak VL53L0X:** Untuk deteksi jarak benda secara presisi.
-- **Sensor IR:** Untuk deteksi keberadaan objek.
-- **Pengaturan Posisi Awal, Akhir, dan Default:** Posisi-posisi penting dapat diatur pada kode.
-- **Pengontrolan Menggunakan PWM Servo Driver (I2C).**
+- **4-DoF Arm:** Control of 4 servos for base, joints, and gripper.
+- **Automatic Gripper:** Gripper opens and closes automatically based on object detection.
+- **VL53L0X Distance Sensor:** For precise distance measurement of objects.
+- **IR Sensor:** To detect the presence of objects.
+- **Configurable Default, Start, and End Positions:** Key positions can be set in the code.
+- **PWM Servo Driver (I2C) Control.**
 
-## Hardware yang Dibutuhkan
+## Required Hardware
 
-- 1x Lengan robotik 4-DoF dengan servo motor
+- 1x 4-DoF robotic arm with servos
 - 1x Adafruit PWM Servo Driver (PCA9685)
-- 1x Sensor Jarak VL53L0X (I2C)
-- 1x Sensor IR (infrared)
-- Kabel jumper, breadboard, dan power supply yang sesuai
+- 1x VL53L0X Distance Sensor (I2C)
+- 1x IR (infrared) sensor
+- Jumper wires, breadboard, and a suitable power supply
 
-## Instalasi Library Arduino
+## Arduino Library Installation
 
-Pastikan Anda telah menginstal library berikut di Arduino IDE:
+Make sure you have installed the following libraries in the Arduino IDE:
 
 - [Adafruit PWM Servo Driver Library](https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library)
 - [Adafruit VL53L0X Library](https://github.com/adafruit/Adafruit_VL53L0X)
 
 ## Wiring
 
-- Sambungkan servo ke channel PCA9685 sesuai urutan pada kode (`BASE_SERVO`, `JOINT1_LEFT`, dll).
-- Sambungkan VL53L0X ke I2C (SDA, SCL).
-- Sambungkan sensor IR ke pin sesuai definisi `IR_PIN` (misal: GPIO 32 pada ESP32).
+- Connect the servos to the PCA9685 channels as defined in the code (`BASE_SERVO`, `JOINT1_LEFT`, etc).
+- Connect the VL53L0X to the I2C lines (SDA, SCL).
+- Connect the IR sensor to the pin defined by `IR_PIN` (e.g., GPIO 32 on ESP32).
 
-## Cara Kerja Singkat
+## How it Works
 
-1. **Inisialisasi:** Semua servo bergerak ke posisi default.
-2. **Deteksi Objek:** Jika sensor IR mendeteksi objek, lengan akan mendekat secara bertahap berdasarkan pembacaan jarak VL53L0X.
-3. **Grip:** Saat cukup dekat, gripper menutup untuk mengambil objek.
-4. **Pindahkan:** Lengan bergerak ke posisi akhir, lalu melepaskan objek.
-5. **Reset:** Kembali ke posisi awal, siap untuk siklus berikutnya.
+1. **Initialization:** All servos move to their default positions.
+2. **Object Detection:** If the IR sensor detects an object, the arm will approach the object gradually based on the VL53L0X distance reading.
+3. **Gripping:** Once close enough, the gripper closes to grip the object.
+4. **Move:** The arm moves to the target position and releases the object.
+5. **Reset:** Returns to the initial position, ready for the next cycle.
 
-## Penjelasan Pin Servo (sesuaikan channel PCA9685)
+## Servo Pin Mapping (as per PCA9685 channel)
 
-| Nama Servo           | Channel |
+| Servo Name           | Channel |
 |----------------------|---------|
 | BASE_SERVO           | 0       |
 | JOINT1_LEFT          | 1       |
@@ -51,23 +51,21 @@ Pastikan Anda telah menginstal library berikut di Arduino IDE:
 | GRIPPER_ROTATE       | 4       |
 | GRIPPER_OPEN_CLOSE   | 5       |
 
-## Kode Utama
+## Main Code
 
-Kode utama dapat ditemukan pada [`src/main.cpp`](src/main.cpp).  
-Pastikan untuk menyesuaikan parameter PWM pada array `defaultPosition`, `posisiAwal`, dan `posisiAkhir` jika konstruksi fisik robot berbeda.
+The main code can be found in [`src/main.cpp`](src/main.cpp).  
+Make sure to adjust the PWM parameters in the `defaultPosition`, `posisiAwal`, and `posisiAkhir` arrays if your robot’s physical construction is different.
 
-## Cara Upload
+## Upload Instructions
 
-1. Hubungkan board (misal: ESP32/Arduino) ke komputer.
-2. Buka `main.cpp` di Arduino IDE.
-3. Pilih board dan port yang sesuai.
-4. Upload kode ke board.
+1. Connect your board (e.g., ESP32/Arduino) to your computer.
+2. Open `main.cpp` in the Arduino IDE.
+3. Select the correct board and port.
+4. Upload the code to the board.
 
-## Lisensi
+## License
 
-Proyek ini bebas digunakan untuk keperluan edukasi dan pengembangan lebih lanjut.
+This project is free to use for educational and further development purposes.
 
----
-
-**Kontributor:**  
+**Contributor:**  
 [JustFTan](https://github.com/JustFTan)
